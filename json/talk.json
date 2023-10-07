@@ -1,7 +1,7 @@
 ﻿[
 {"id":1
 ,"name":"ミランダ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -265,7 +265,7 @@
 ]}
 ,{"id":2
 ,"name":"ココア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -529,7 +529,7 @@
 ]}
 ,{"id":3
 ,"name":"サクラ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -793,7 +793,7 @@
 ]}
 ,{"id":4
 ,"name":"ヤン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -1057,7 +1057,7 @@
 ]}
 ,{"id":5
 ,"name":"エマ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -1321,7 +1321,7 @@
 ]}
 ,{"id":6
 ,"name":"ソーダ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -1585,7 +1585,7 @@
 ]}
 ,{"id":7
 ,"name":"ドロシー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -1849,7 +1849,7 @@
 ]}
 ,{"id":8
 ,"name":"ライ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -2113,7 +2113,7 @@
 ]}
 ,{"id":9
 ,"name":"ルドミラ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -2377,7 +2377,7 @@
 ]}
 ,{"id":10
 ,"name":"メアリ―"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -2641,7 +2641,7 @@
 ]}
 ,{"id":11
 ,"name":"ミルク"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -2905,7 +2905,7 @@
 ]}
 ,{"id":12
 ,"name":"メアリー：ベイゴッデス"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -3169,7 +3169,7 @@
 ]}
 ,{"id":13
 ,"name":"ボリューム"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -3433,7 +3433,7 @@
 ]}
 ,{"id":14
 ,"name":"ペッパー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -3697,7 +3697,7 @@
 ]}
 ,{"id":15
 ,"name":"ルピー：ウィンターショッパー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -3961,7 +3961,7 @@
 ]}
 ,{"id":16
 ,"name":"エクシア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -4225,7 +4225,7 @@
 ]}
 ,{"id":17
 ,"name":"ノイズ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -4489,7 +4489,7 @@
 ]}
 ,{"id":18
 ,"name":"ロザンナ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -4753,7 +4753,7 @@
 ]}
 ,{"id":19
 ,"name":"リター"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -5017,7 +5017,7 @@
 ]}
 ,{"id":20
 ,"name":"プリム"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -5281,7 +5281,7 @@
 ]}
 ,{"id":21
 ,"name":"ジャッカル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -5545,7 +5545,7 @@
 ]}
 ,{"id":22
 ,"name":"ラプンツェル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -5809,7 +5809,7 @@
 ]}
 ,{"id":23
 ,"name":"ネオン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -6073,7 +6073,7 @@
 ]}
 ,{"id":24
 ,"name":"N102"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -6337,7 +6337,7 @@
 ]}
 ,{"id":25
 ,"name":"アンカー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -6601,7 +6601,7 @@
 ]}
 ,{"id":26
 ,"name":"ミカ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -6865,7 +6865,7 @@
 ]}
 ,{"id":27
 ,"name":"エーテル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -7129,7 +7129,7 @@
 ]}
 ,{"id":28
 ,"name":"シグナル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -7393,7 +7393,7 @@
 ]}
 ,{"id":29
 ,"name":"ネロ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -7657,7 +7657,7 @@
 ]}
 ,{"id":30
 ,"name":"ウンファ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -7921,7 +7921,7 @@
 ]}
 ,{"id":31
 ,"name":"ニヒリスタ―"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -8185,7 +8185,7 @@
 ]}
 ,{"id":32
 ,"name":"ユニ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -8449,7 +8449,7 @@
 ]}
 ,{"id":33
 ,"name":"フォルクヴァン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -8713,7 +8713,7 @@
 ]}
 ,{"id":34
 ,"name":"バイパー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -8977,7 +8977,7 @@
 ]}
 ,{"id":35
 ,"name":"ポリ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -9241,7 +9241,7 @@
 ]}
 ,{"id":36
 ,"name":"アリア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -9505,7 +9505,7 @@
 ]}
 ,{"id":37
 ,"name":"ブラン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -9769,7 +9769,7 @@
 ]}
 ,{"id":38
 ,"name":"ギルティ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -10033,7 +10033,7 @@
 ]}
 ,{"id":39
 ,"name":"アドミ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -10297,7 +10297,7 @@
 ]}
 ,{"id":40
 ,"name":"ドラー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -10561,7 +10561,7 @@
 ]}
 ,{"id":41
 ,"name":"エヌ：ミラクルフェアリー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -10825,7 +10825,7 @@
 ]}
 ,{"id":42
 ,"name":"ノア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -11089,7 +11089,7 @@
 ]}
 ,{"id":43
 ,"name":"ディーゼル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -11353,7 +11353,7 @@
 ]}
 ,{"id":44
 ,"name":"シン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -11617,7 +11617,7 @@
 ]}
 ,{"id":45
 ,"name":"クエンシー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -11881,7 +11881,7 @@
 ]}
 ,{"id":46
 ,"name":"マスト"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -12145,7 +12145,7 @@
 ]}
 ,{"id":47
 ,"name":"ビスケット"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -12409,7 +12409,7 @@
 ]}
 ,{"id":48
 ,"name":"ヘルム：アクアマリン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -12673,7 +12673,7 @@
 ]}
 ,{"id":49
 ,"name":"ルピー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -12937,7 +12937,7 @@
 ]}
 ,{"id":50
 ,"name":"ノベル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -13201,7 +13201,7 @@
 ]}
 ,{"id":51
 ,"name":"マルチャーナ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -13465,7 +13465,7 @@
 ]}
 ,{"id":52
 ,"name":"センチ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -13729,7 +13729,7 @@
 ]}
 ,{"id":53
 ,"name":"デルタ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -13993,7 +13993,7 @@
 ]}
 ,{"id":54
 ,"name":"ベロータ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -14257,7 +14257,7 @@
 ]}
 ,{"id":55
 ,"name":"アニス"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -14521,7 +14521,7 @@
 ]}
 ,{"id":56
 ,"name":"クロウ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -14785,7 +14785,7 @@
 ]}
 ,{"id":57
 ,"name":"ドレイク"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -15049,7 +15049,7 @@
 ]}
 ,{"id":58
 ,"name":"アリス"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -15313,7 +15313,7 @@
 ]}
 ,{"id":59
 ,"name":"ユルハ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -15577,7 +15577,7 @@
 ]}
 ,{"id":60
 ,"name":"モダニア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -15841,7 +15841,7 @@
 ]}
 ,{"id":61
 ,"name":"ブリッド"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -16105,7 +16105,7 @@
 ]}
 ,{"id":62
 ,"name":"プリバティ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -16369,7 +16369,7 @@
 ]}
 ,{"id":63
 ,"name":"ヘルム"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -16633,7 +16633,7 @@
 ]}
 ,{"id":64
 ,"name":"ベスティー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -16897,7 +16897,7 @@
 ]}
 ,{"id":65
 ,"name":"ネオン：ブルーオーシャン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -17161,7 +17161,7 @@
 ]}
 ,{"id":66
 ,"name":"D"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -17425,7 +17425,7 @@
 ]}
 ,{"id":67
 ,"name":"エピネル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -17689,7 +17689,7 @@
 ]}
 ,{"id":68
 ,"name":"ノワール"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -17953,7 +17953,7 @@
 ]}
 ,{"id":69
 ,"name":"紅蓮"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -18217,7 +18217,7 @@
 ]}
 ,{"id":70
 ,"name":"アニス：スパークリングサマー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -18481,7 +18481,7 @@
 ]}
 ,{"id":71
 ,"name":"イサベル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -18745,7 +18745,7 @@
 ]}
 ,{"id":72
 ,"name":"メイデン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -19009,7 +19009,7 @@
 ]}
 ,{"id":73
 ,"name":"ハラン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -19273,7 +19273,7 @@
 ]}
 ,{"id":74
 ,"name":"ギロチン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -19537,7 +19537,7 @@
 ]}
 ,{"id":75
 ,"name":"ジュリア"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -19801,7 +19801,7 @@
 ]}
 ,{"id":76
 ,"name":"スノーホワイト"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -20065,7 +20065,7 @@
 ]}
 ,{"id":77
 ,"name":"ソリン"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -20329,7 +20329,7 @@
 ]}
 ,{"id":78
 ,"name":"シュガー"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -20593,7 +20593,7 @@
 ]}
 ,{"id":79
 ,"name":"マクスウェル"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -20857,7 +20857,7 @@
 ]}
 ,{"id":80
 ,"name":"ラプラス"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -21121,7 +21121,7 @@
 ]}
 ,{"id":81
 ,"name":"ラピ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -21385,7 +21385,7 @@
 ]}
 ,{"id":82
 ,"name":"ミハラ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
@@ -21649,7 +21649,7 @@
 ]}
 ,{"id":83
 ,"name":"ネヴェ"
-,"choices":[
+,"case":[
 {"id":1
 ,"choices":[
 {"id":1
