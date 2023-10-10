@@ -1992,7 +1992,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"共に危機を乗り越えることで絆が強くなる。２人に料理をふるまってやれ"
+,"select":"共に危機を乗り越えることで絆が強くなる。2人に料理をふるまってやれ"
 ,"hiragana":"ともにききをのりこえることできずながつよくなるふたりにりようりをふるまつてやれ"
 ,"result":""
 ,"trigramify": null
@@ -2912,7 +2912,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"さ、３号…？"
+,"select":"さ、3号…？"
 ,"hiragana":"ささんごう"
 ,"result":"1"
 ,"trigramify": null
@@ -2985,14 +2985,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ライは３年生だから１回くらいサボってもいい"
+,"select":"ライは3年生だから1回くらいサボってもいい"
 ,"hiragana":"らいはさんねんせいだからいつかいくらいさぼつてもいい"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ライは３年生だからお手本にならないと"
+,"select":"ライは3年生だからお手本にならないと"
 ,"hiragana":"らいはさんねんせいだからおてほんにならないと"
 ,"result":""
 ,"trigramify": null
@@ -6872,7 +6872,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"…私も自分の唇を指で２回叩く"
+,"select":"…私も自分の唇を指で2回叩く"
 ,"hiragana":"わたしもじぶんのくちびるをゆびでにかいたたく"
 ,"result":"1"
 ,"trigramify": null
@@ -7445,14 +7445,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"寂しがるイヌが２匹になるだけだ"
+,"select":"寂しがるイヌが2匹になるだけだ"
 ,"hiragana":"さびしがるいぬがにひきになるだけだ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"せっかくなら、２匹迎えるのは？"
+,"select":"せっかくなら、2匹迎えるのは？"
 ,"hiragana":"せつかくならにひきむかえるのは"
 ,"result":""
 ,"trigramify": null
@@ -8012,7 +8012,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"いや、１０００回なでるつもりだが？"
+,"select":"いや、1000回なでるつもりだが？"
 ,"hiragana":"いやせんかいなでるつもりだが"
 ,"result":"1"
 ,"trigramify": null
@@ -8892,7 +8892,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"銃を２、３丁持ってろ"
+,"select":"銃を2、3丁持ってろ"
 ,"hiragana":"じゅうをにさんちょうもってろ"
 ,"result":""
 ,"trigramify": null
@@ -9032,7 +9032,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"小口径弾を１発"
+,"select":"小口径弾を1発"
 ,"hiragana":"しようこうけいだんをいつぱつ"
 ,"result":""
 ,"trigramify": null
@@ -9045,14 +9045,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"火力を３倍アップデート"
+,"select":"火力を3倍アップデート"
 ,"hiragana":"かりよくをさんばいあつぷでーと"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"速度を３倍アップデート"
+,"select":"速度を3倍アップデート"
 ,"hiragana":"そくどをさんばいあつぷでーと"
 ,"result":""
 ,"trigramify": null
@@ -9112,7 +9112,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"…真面目な人も１人くらいはいてもいいと思う"
+,"select":"…真面目な人も1人くらいはいてもいいと思う"
 ,"hiragana":"まじめなひともひとりくらいはいてもいいとおもう"
 ,"result":"1"
 ,"trigramify": null
@@ -9152,7 +9152,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"２人とも、人の部屋で何をしている？"
+,"select":"2人とも、人の部屋で何をしている？"
 ,"hiragana":"ふたりともひとのへやでなにをしている"
 ,"result":""
 ,"trigramify": null
@@ -11525,14 +11525,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"２人とも子供だから？"
+,"select":"2人とも子供だから？"
 ,"hiragana":"ふたりともこどもだから"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"２人ともネコみたいだから？"
+,"select":"2人ともネコみたいだから？"
 ,"hiragana":"ふたりともねこみたいだから"
 ,"result":"1"
 ,"trigramify": null
@@ -11625,7 +11625,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"１人の時間を持って、考えを整理するのは？"
+,"select":"1人の時間を持って、考えを整理するのは？"
 ,"hiragana":"ひとりのときまをもってかんがえをせいりするのは"
 ,"result":""
 ,"trigramify": null
@@ -11752,7 +11752,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"たった１回のミスが、すべてをダメにする場合もある"
+,"select":"たった1回のミスが、すべてをダメにする場合もある"
 ,"hiragana":"たったいっかいのみすがすべてをだめにするばあいもある"
 ,"result":"1"
 ,"trigramify": null
@@ -12125,7 +12125,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"どうせ処理すべき奴らの１人なんだろう"
+,"select":"どうせ処理すべき奴らの1人なんだろう"
 ,"hiragana":"どうせしょりすべきやつらのひとりなんだろう"
 ,"result":""
 ,"trigramify": null
@@ -14625,7 +14625,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"面談は１対１が原則だ"
+,"select":"面談は1対1が原則だ"
 ,"hiragana":"めんだんはいつたいいちたいがげんそくだ"
 ,"result":""
 ,"trigramify": null
@@ -14732,7 +14732,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"４つ葉のクローバーを描くのはどうだ？"
+,"select":"4つ葉のクローバーを描くのはどうだ？"
 ,"hiragana":"よつばのくろーばーをえがくのはどうだ"
 ,"result":""
 ,"trigramify": null
@@ -15192,7 +15192,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"３人とも似てるような･･･"
+,"select":"3人とも似てるような･･･"
 ,"hiragana":"さんにんともにてるような"
 ,"result":""
 ,"trigramify": null
@@ -21125,7 +21125,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"１人でもきっと上手くやっていける！"
+,"select":"1人でもきっと上手くやっていける！"
 ,"hiragana":"ひとりでもきつとうまくやつていける"
 ,"result":""
 ,"trigramify": null
@@ -21745,7 +21745,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"１個買ったら１個タダ！イベントとか？"
+,"select":"1個買ったら1個タダ！イベントとか？"
 ,"hiragana":"いっこかったらいっこただいべんととか"
 ,"result":""
 ,"trigramify": null
@@ -21885,7 +21885,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"２匹の子豚"
+,"select":"2匹の子豚"
 ,"hiragana":"にひきのこぶた"
 ,"result":""
 ,"trigramify": null
@@ -27405,14 +27405,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"１番を選ぶ"
+,"select":"1番を選ぶ"
 ,"hiragana":"にばんをえらぶ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"２番を選ぶ"
+,"select":"2番を選ぶ"
 ,"hiragana":"にばんをえらぶ"
 ,"result":""
 ,"trigramify": null
@@ -29732,7 +29732,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"１人で静かに過ごす"
+,"select":"1人で静かに過ごす"
 ,"hiragana":"ひとりでしずかにすごす"
 ,"result":""
 ,"trigramify": null
@@ -33232,7 +33232,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"多すぎて１つに絞れない"
+,"select":"多すぎて1つに絞れない"
 ,"hiragana":"おおすぎてひとつにしぼれない"
 ,"result":"1"
 ,"trigramify": null
