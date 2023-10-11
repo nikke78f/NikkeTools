@@ -20552,7 +20552,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ああ、何かあったのか?"
+,"select":"ああ、何かあったのか？"
 ,"hiragana":"ああなにかあつたのか"
 ,"result":"1"
 ,"trigramify": null
@@ -20725,7 +20725,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"オシャレで個性的?"
+,"select":"オシャレで個性的？"
 ,"hiragana":"おしやれでこせいてき"
 ,"result":"1"
 ,"trigramify": null
@@ -28972,7 +28972,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"アルバイトでも始めたら?"
+,"select":"アルバイトでも始めたら？"
 ,"hiragana":"あるばいとでもはじめたら"
 ,"result":"1"
 ,"trigramify": null
