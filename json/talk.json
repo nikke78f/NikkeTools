@@ -532,8 +532,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"たまには外で食べるのもいいだろう"
-,"hiragana":"たまにはそとでたべるのもいいだろう"
+,"select":"外で食べるのもいいだろう"
+,"hiragana":"そとでたべるのもいいだろう"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -632,8 +632,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ケチャップは少なめで"
-,"hiragana":"けちやつぷはすくなめで"
+,"select":"ケチャップはちょっとだけで"
+,"hiragana":"けちゃっぷはちょっとだけで"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -985,8 +985,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"今度一緒に行ってみようか？"
-,"hiragana":"こんどいつしよにいつてみようか"
+,"select":"今度一緒に行こうか？"
+,"hiragana":"こんどいっしょにいこうか？"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -1785,7 +1785,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"自分では気付いてないストレスがあるのかも"
+,"select":"自分では気づいてないストレスがあるのかも"
 ,"hiragana":"じぶんではきづいてないすとれすがあるのかも"
 ,"result":""
 ,"trigramify": null
@@ -1993,7 +1993,7 @@
 }
 ,{"id":2
 ,"select":"共に危機を乗り越えることで絆が強くなる。2人に料理をふるまってやれ"
-,"hiragana":"ともにききをのりこえることできずながつよくなるふたりにりようりをふるまつてやれ"
+,"hiragana":"ともにききをのりこえることできづながつよくなるふたりにりようりをふるまつてやれ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -2812,7 +2812,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ああ、食べたい"
+,"select":"ああ。食べたい"
 ,"hiragana":"ああたべたい"
 ,"result":"1"
 ,"trigramify": null
@@ -2825,8 +2825,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"公共の場所で音楽を流しちゃダメだ"
-,"hiragana":"こうきようのばしよでおんがくをながしちやだめだ"
+,"select":"公共の場で音楽を流しちゃダメだ"
+,"hiragana":"こうきょうのばでおんがくをながしちゃだめだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -2925,8 +2925,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ご飯とおやつを奢ってくれる先輩"
-,"hiragana":"ごはんとおやつをおごつてくれるせんぱい"
+,"select":"ご飯とおやつをおごってくれる先輩"
+,"hiragana":"ごはんとおやつをおごってくれるせんぱい"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -3012,8 +3012,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"でもちゃんと解けたんだろう？"
-,"hiragana":"でもちやんととけたんだろう"
+,"select":"でもちゃんと解けただろう？"
+,"hiragana":"でもちやんととけただろう"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -3165,8 +3165,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"いいアイディアだと思う"
-,"hiragana":"いいあいでいあだとおもう"
+,"select":"いいアイデアだと思う"
+,"hiragana":"いいあいであだとおもう"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -3485,8 +3485,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"氷で作った犬の骨"
-,"hiragana":"こおりでつくつたいぬのほね"
+,"select":"氷で作ったイヌの骨"
+,"hiragana":"こおりでつくったいぬのほね"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -3992,8 +3992,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"目を細めて見ろと言ってごらん"
-,"hiragana":"めをほそめてみろといつてごらん"
+,"select":"目を細めてみろと言ってごらん"
+,"hiragana":"めをほそめてみろといってごらん"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -4065,8 +4065,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ミルクシスルはまずい"
-,"hiragana":"みるくしするはまずい"
+,"select":"ミルクレープは嫌いだ"
+,"hiragana":"みるくれーぷはきらいだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -4192,8 +4192,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"まず裏表があるか確認したい"
-,"hiragana":"まずうらおもてがあるかかくにんしたい"
+,"select":"まず裏面があるか確認したい"
+,"hiragana":"まずうらめんがあるかかくにんしたい"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -4792,7 +4792,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"私を信じてくれ、絶滅させてやる"
+,"select":"私を信じてくれ。絶滅させてやる"
 ,"hiragana":"わたしをしんじてくれぜつめつさせてやる"
 ,"result":""
 ,"trigramify": null
@@ -6305,14 +6305,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ボイスチャットを繋ぐ"
-,"hiragana":"ぼいすちやつとをつなぐ"
+,"select":"ボイスチャットを立ち上げる"
+,"hiragana":"ぼいすちゃっとをたちあげる"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"一人でキャリーする"
+,"select":"1人でキャリーする"
 ,"hiragana":"ひとりできやりーする"
 ,"result":"1"
 ,"trigramify": null
@@ -6825,7 +6825,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ころすのに相応しいやつを探す"
+,"select":"殺すのに相応しいやつを探す"
 ,"hiragana":"ころすのにふさわしいやつをさがす"
 ,"result":""
 ,"trigramify": null
@@ -7045,15 +7045,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"愛してる地上よ"
-,"hiragana":"あいしてるちじようよ"
+,"select":"あ、愛してる、地上よ！"
+,"hiragana":"ああいしてるちじようよ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"助けてください"
-,"hiragana":"たすけてください"
+,"select":"た、助けてください！"
+,"hiragana":"たたすけてください"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -7352,7 +7352,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"そのときになったら、また自分に合う仕事が見つかるはず"
+,"select":"その時になったら、また自分に合う仕事が見つかるはず"
 ,"hiragana":"そのときになつたらまたじぶんにあうしごとがみつかるはず"
 ,"result":"1"
 ,"trigramify": null
@@ -7472,7 +7472,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"犬の自由を制限するもの"
+,"select":"イヌの自由を制限するもの"
 ,"hiragana":"いぬのじゆうをせいげんするもの"
 ,"result":""
 ,"trigramify": null
@@ -7492,7 +7492,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"それでも片付けるべき"
+,"select":"それでも片づけるべき"
 ,"hiragana":"それでもかたづけるべき"
 ,"result":"1"
 ,"trigramify": null
@@ -7685,15 +7685,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"コーヒーの量より多い程に"
-,"hiragana":"こーひーのりようよりおおいほどに"
+,"select":"コーヒーの量よりも多いくらいに"
+,"hiragana":"こーひーのりょうよりもおおいくらいに"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ほのかに香る程度に"
-,"hiragana":"ほのかにかおるていどに"
+,"select":"ほのかに香りがする程度に"
+,"hiragana":"ほのかにかおりがするていどに"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -7752,7 +7752,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"疲れたときは寝るしかない"
+,"select":"疲れた時は寝るしかない"
 ,"hiragana":"つかれたときはねるしかない"
 ,"result":""
 ,"trigramify": null
@@ -7805,8 +7805,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"プリムにはそれが必要なのか？"
-,"hiragana":"ぷりむにはそれがひつようなのか"
+,"select":"プリムにはそれが重要なのか？"
+,"hiragana":"ぷりむにはそれがじゆうようなのか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -7845,8 +7845,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"大人しく寝ている姿しか見たことないから分からない"
-,"hiragana":"おとなしくねているすがたしかみたことないからわからない"
+,"select":"大人しく寝ている姿しか見てなくて分からない"
+,"hiragana":"おとなしくねているすがたしかみてなくてわからない"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -8632,7 +8632,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"私もその気持ちが分かる気がする"
+,"select":"私もその気持ちがわかる気がする"
 ,"hiragana":"わたしもそのきもちがわかるきがする"
 ,"result":"1"
 ,"trigramify": null
@@ -9465,8 +9465,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ただの失敗作じゃないのか？"
-,"hiragana":"ただのしつぱいさくじやないのか"
+,"select":"ただの失敗作じゃないか？"
+,"hiragana":"ただのしつぱいさくじやないか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -10532,8 +10532,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"遠慮しておく"
-,"hiragana":"えんりょしておく"
+,"select":"遠慮する"
+,"hiragana":"えんりょする"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -10545,7 +10545,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ベロータに頼まれて聞いているのか？"
+,"select":"ベロータに頼まれて聞いてるのか？"
 ,"hiragana":"べろーたにたのまれてきいているのか"
 ,"result":""
 ,"trigramify": null
@@ -11592,7 +11592,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"根に持っていないで言ったほうがいい"
+,"select":"根に持ってないで言った方がいい"
 ,"hiragana":"ねにもつていないでいつたほうがいい"
 ,"result":"1"
 ,"trigramify": null
@@ -12052,8 +12052,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"途中でラビにでも会ったのか？"
-,"hiragana":"とちゆうでらびにでもあつたのか"
+,"select":"途中でラピにでも会ったのか？"
+,"hiragana":"とちゆうでらぴにでもあつたのか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -12105,15 +12105,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"長所を見つけて最大活用する"
-,"hiragana":"ちようしよをみつけてさいだいかつようする"
+,"select":"長所を見つけ最大限活用する"
+,"hiragana":"ちようしよをみつけさいだいかつようする"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"もっと優秀な仲間がフォローすればいい"
-,"hiragana":"もつとゆうしゆうななかまがふおろーすればいい"
+,"select":"より優秀な仲間がフォローすればいい"
+,"hiragana":"よりゆうしゅうななかまがふぉろーすればいい"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -12132,7 +12132,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"君が有能過ぎるだけだ"
+,"select":"君が有能すぎるだけだ"
 ,"hiragana":"きみがゆうのうすぎるだけだ"
 ,"result":"1"
 ,"trigramify": null
@@ -12165,8 +12165,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"見つからなように後退して上層部に報告する"
-,"hiragana":"みつからなようにこうたいしてじようそうぶにほうこくする"
+,"select":"見つからないように後退して上層部に報告する"
+,"hiragana":"みつからないようにこうたいしてじょうそうぶにほうこくする"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -12565,8 +12565,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"いい加減に扱ってなどいない"
-,"hiragana":"いいかげんにあつかつてなどいない"
+,"select":"いい加減に扱ったことなどない"
+,"hiragana":"いいかげんにあつかったことなどない"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -12752,7 +12752,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"こういう事を聞く機会は少ないから"
+,"select":"こういうことを聞く機会は少ないから"
 ,"hiragana":"こういうことをきくきかいはすくないから"
 ,"result":"1"
 ,"trigramify": null
@@ -12785,14 +12785,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ニヒリスターを守ってくれる人"
+,"select":"ニヒリスターを守ってくれる人？"
 ,"hiragana":"にひりすたーをまもつてくれるひと"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ニヒリスターが守るべき人"
+,"select":"ニヒリスターが守るべき人？"
 ,"hiragana":"にひりすたーがまもるべきひと"
 ,"result":"1"
 ,"trigramify": null
@@ -13032,7 +13032,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"実践に勝るものはない、やらなくてもいい"
+,"select":"実戦に勝るものはない、やらなくてもいい"
 ,"hiragana":"じつせんにまさるものはないやらなくてもいい"
 ,"result":""
 ,"trigramify": null
@@ -13165,7 +13165,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"頭を撫でる"
+,"select":"頭をなでる"
 ,"hiragana":"あたまをなでる"
 ,"result":"1"
 ,"trigramify": null
@@ -13805,7 +13805,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"バイパーもそういうこと気にするんだな"
+,"select":"バイパーもそういうことを気にするんだな"
 ,"hiragana":"ばいぱーもそういうこときにするんだな"
 ,"result":"1"
 ,"trigramify": null
@@ -13985,8 +13985,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ジャッカルの羨ましいのか？"
-,"hiragana":"じやつかるのうらやましいのか"
+,"select":"ジャッカルが羨ましいのか？"
+,"hiragana":"じやつかるがうらやましいのか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -14272,7 +14272,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"すべてを終わらせて遊びに行こう"
+,"select":"すべて終わらせて遊びに行こう"
 ,"hiragana":"すべてをおわらせてあそびにいこう"
 ,"result":""
 ,"trigramify": null
@@ -15133,7 +15133,7 @@
 }
 ,{"id":2
 ,"select":"4つ葉のクローバーを描くのはどうだ？"
-,"hiragana":"よつばのくろーばーをえがくのはどうだ"
+,"hiragana":"よつばのくろーばーをかくのはどうだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -15185,15 +15185,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"私に惚れたのか"
+,"select":"私に惚れたのか？"
 ,"hiragana":"わたしにほれたのか"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"見過ぎじゃない"
-,"hiragana":"みすぎじやない"
+,"select":"…見すぎじゃないか？"
+,"hiragana":"みすぎじやないか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -15272,7 +15272,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"今度･･･機会があったらやってみよう"
+,"select":"今度…機会があったらやってみよう"
 ,"hiragana":"こんどきかいがあつたらやつてみよう"
 ,"result":"1"
 ,"trigramify": null
@@ -15325,8 +15325,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"もっと早くメールを送れば良い"
-,"hiragana":"もつとはやくめーるをおくればよい"
+,"select":"メールを早く送ればいい"
+,"hiragana":"めーるをはやくおくればよい"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -15365,8 +15365,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"羊を数えようか？"
-,"hiragana":"ひつじをかぞえようか"
+,"select":"羊を数えてみたら？"
+,"hiragana":"ひつじをかぞえてみたら"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -15525,7 +15525,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"手を繋いで散歩？"
+,"select":"手をつないで散歩？"
 ,"hiragana":"てをつないでさんぽ"
 ,"result":"1"
 ,"trigramify": null
@@ -17925,7 +17925,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"わたしがすりつぶしてあげる"
+,"select":"私がすりつぶしてあげる"
 ,"hiragana":"わたしがすりつぶしてあげる"
 ,"result":"1"
 ,"trigramify": null
@@ -17952,7 +17952,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"･･･今度クエンシーを見つけたら教えてくれ"
+,"select":"...今度クエンシーを見つけたら教えてくれ"
 ,"hiragana":"こんどくえんしーをみつけたらおしえてくれ"
 ,"result":""
 ,"trigramify": null
@@ -18045,15 +18045,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"クエンシーは今も自由なんじゃないか？"
+,"select":"クエンシーは今も自由じゃないか？"
 ,"hiragana":"くえんしーはいまもじゆうなんじやないか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"いつでも私に会いに来れる"
-,"hiragana":"いつでもわたしにあいにこれる"
+,"select":"いつでも私に会いに来られる"
+,"hiragana":"いつでもわたしにあいにこられる"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -18065,8 +18065,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"クエンシーみたいな明るい人？"
-,"hiragana":"くえんしーみたいなあかるいひと"
+,"select":"クエンシーみたいに明るい人？"
+,"hiragana":"くえんしーみたいにあかるいひと"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -18125,7 +18125,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ビックリしたフリをする"
+,"select":"びっくりしたフリをする"
 ,"hiragana":"びつくりしたふりをする"
 ,"result":"1"
 ,"trigramify": null
@@ -19905,7 +19905,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ヘルムによく似合ってる"
+,"select":"ヘルムによく似合っている"
 ,"hiragana":"へるむによくにあつてる"
 ,"result":"1"
 ,"trigramify": null
@@ -20485,7 +20485,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"君が見つけていないだけで、 事件はどこにでもある"
+,"select":"君が見つけていないだけで、 事件はどこにでもある"
 ,"hiragana":"きみがみつけていないだけでじけんはどこにでもある"
 ,"result":"1"
 ,"trigramify": null
@@ -20765,7 +20765,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"誰か違うとでも言ったのか？ "
+,"select":"誰か違うとでも言ったのか？ "
 ,"hiragana":"きみがちがうとでもいつたのか"
 ,"result":""
 ,"trigramify": null
@@ -21392,7 +21392,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"紐のない靴を買え！"
+,"select":"ヒモのない靴を買え！"
 ,"hiragana":"ひものないくつをかえ"
 ,"result":"1"
 ,"trigramify": null
@@ -21945,8 +21945,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"体の負担がかからない程度に訓練しろ"
-,"hiragana":"からだのふたんがかからないていどにくんれんしろ"
+,"select":"体に負担がかからない程度に訓練しろ"
+,"hiragana":"からだにふたんがかからないていどにくんれんしろ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -22232,8 +22232,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ミカにイタズラするのはどうだ"
-,"hiragana":"みかにいたずらするのはどうだ"
+,"select":"ミカにイタズラをするのはどうだ"
+,"hiragana":"みかにいたずらをするのはどうだ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -22452,8 +22452,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"…アニス。肩に誰かが乗っているぞ"
-,"hiragana":"あにすかたにだれかがのつているぞ"
+,"select":"…アニス。肩に誰かが乗ってるぞ"
+,"hiragana":"あにすかたにだれかがのつてるぞ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -22945,8 +22945,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"私が連れて行ってあげよう"
-,"hiragana":"わたしがつれていつてあげよう"
+,"select":"私が連れていってあげよう"
+,"hiragana":"わたしがつれていってあげよう"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -23345,7 +23345,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"夏といえばドレイク！"
+,"select":"夏と言えばドレイク！"
 ,"hiragana":"なつといえばどれいく"
 ,"result":"1"
 ,"trigramify": null
@@ -23772,8 +23772,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"お腹がすいたら目覚めるだろう"
-,"hiragana":"おはらがすいたらめざめるだろう"
+,"select":"お腹がすいたら目が覚めるだろう"
+,"hiragana":"おはらがすいたらめがさめるだろう"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -24265,8 +24265,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"プリバティに子供っぽく振る舞う方法を教わるように言ってみろ"
-,"hiragana":"ぷりばていにこどもつぽくふるまうほうほうをおそわるようにいつてみろ"
+,"select":"プリバティに子どもっぽく振る舞う方法を教わるよう言ってみろ"
+,"hiragana":"ぷりばていにこどもつぽくふるまうほうほうをおそわるよういってみろ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -24925,7 +24925,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"一気に片付けるタイプだ"
+,"select":"一気に片づけるタイプだ"
 ,"hiragana":"いつきにかたづけるたいぷだ"
 ,"result":"1"
 ,"trigramify": null
@@ -25212,8 +25212,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ラピと言ってもいいのか？"
-,"hiragana":"らぴといつてもいいのか"
+,"select":"ラピと言ってもいいか？"
+,"hiragana":"らぴといつてもいいか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -25905,14 +25905,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"演説文を一緒に読めば覚えやすいんじゃないか？"
+,"select":"演説文を一緒に読んだら、覚えやすいんじゃないか？"
 ,"hiragana":"えんぜつぶんをいつしよによめばおぼえやすいんじやないか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"演説を聴く聴衆がいれば覚えやすいんじゃないか？"
+,"select":"演説を聴く聴衆がいれば、覚えやすいんじゃないか？"
 ,"hiragana":"えんぜつをきくちようしゆうがいればおぼえやすいんじやないか"
 ,"result":"1"
 ,"trigramify": null
@@ -25985,7 +25985,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"...私にはそんな部下がいないからわからない"
+,"select":"...私にはそんな部下がいないから分からない"
 ,"hiragana":"わたしにはそんなぶかがいないからわからない"
 ,"result":""
 ,"trigramify": null
@@ -26312,7 +26312,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"背が高くて大人っぽい人　"
+,"select":"背が高くて大人っぽい人"
 ,"hiragana":"せがたかくておとなつぽいひと　"
 ,"result":""
 ,"trigramify": null
@@ -26472,7 +26472,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"うん、一旦、波の中に入ろう"
+,"select":"うん。一旦、波の中に入ろう"
 ,"hiragana":"うんいつたんなみのなかにはいろう"
 ,"result":"1"
 ,"trigramify": null
@@ -26905,14 +26905,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"仕事だったのか？"
+,"select":"…仕事だったのか？"
 ,"hiragana":"しごとだつたのか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"シャワーを浴びてくるか？"
+,"select":"…シャワーを浴びてくるか？"
 ,"hiragana":"しやわーをあびてくるか"
 ,"result":"1"
 ,"trigramify": null
@@ -26992,7 +26992,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"よくわからない"
+,"select":"よく分からない"
 ,"hiragana":"よくわからない"
 ,"result":"1"
 ,"trigramify": null
@@ -27172,7 +27172,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"不愛想に見えるけれど意外とおしゃべりな人"
+,"select":"無愛想に見えるけれど意外とおしゃべりな人"
 ,"hiragana":"ふあいそにみえるけれどいがいとおしやべりなひと"
 ,"result":"1"
 ,"trigramify": null
@@ -27765,7 +27765,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ちょっと不幸な幸運なウサギにになるだろう"
+,"select":"ちょっと不幸な幸運なウサギになるだろう"
 ,"hiragana":"ちよつとふこうなこううんなうさぎにになるだろう"
 ,"result":"1"
 ,"trigramify": null
@@ -27806,7 +27806,7 @@
 ,"cases":[
 {"id":1
 ,"select":"1番を選ぶ"
-,"hiragana":"にばんをえらぶ"
+,"hiragana":"いちばんをえらぶ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -28432,8 +28432,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ラピの水着がカッコイイ"
-,"hiragana":"らぴのみずぎがかつこいい"
+,"select":"ラピの水着の方がカッコイイ"
+,"hiragana":"らぴのみずぎのほうがかつこいい"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -28485,15 +28485,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"アニスの髪の色に似ているな"
-,"hiragana":"あにすのかみのいろににているな"
+,"select":"アニスの髪の色に似てるな"
+,"hiragana":"あにすのかみのいろににてるな"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ラピの髪の色に似ているな"
-,"hiragana":"らぴのかみのいろににているな"
+,"select":"ラピの髪の色に似てるな"
+,"hiragana":"らぴのかみのいろににてるな"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -28605,8 +28605,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"日焼け止め塗ったから平気だ"
-,"hiragana":"ひやけどめぬつたからへいだ"
+,"select":"日焼け止めを塗ったから平気だ"
+,"hiragana":"ひやけどめぬつたからへいきだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -28752,8 +28752,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"日没よりもアニスの方がきれいだ"
-,"hiragana":"にちぼつよりもあにすのほうがきれいだ"
+,"select":"日没よりアニスの方がきれいだ"
+,"hiragana":"にちぼつよりあにすのほうがきれいだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -28765,7 +28765,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"子守歌でも歌おうか？"
+,"select":"子守唄でも歌おうか？"
 ,"hiragana":"こもりうたでもうたおうか"
 ,"result":""
 ,"trigramify": null
@@ -29205,14 +29205,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"誰もいない所でマスクを外して食べる。"
+,"select":"誰もいないところでマスクを外して食べる"
 ,"hiragana":"だれもいないところでますくをはずしてたべる"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"できるだけ外では何も食べない。"
+,"select":"できるだけ外では何も食べない"
 ,"hiragana":"できるだけそとではなにもたべない"
 ,"result":""
 ,"trigramify": null
@@ -29292,7 +29292,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"君たちの苦労は知っている。"
+,"select":"君たちの苦労は知っている"
 ,"hiragana":"きみたちのくろうはしつている"
 ,"result":"1"
 ,"trigramify": null
@@ -30245,8 +30245,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"自由になれる機会はすでに逃がした"
-,"hiragana":"じゆうになれるきかいはすでににがした"
+,"select":"自由になれる機会はすでに逃した"
+,"hiragana":"じゆうになれるきかいはすでにのがした"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -30332,7 +30332,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"なんで笑うんだ？"
+,"select":"何で笑うんだ？"
 ,"hiragana":"なんでわらうんだ"
 ,"result":"1"
 ,"trigramify": null
@@ -30345,7 +30345,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":" 友を放っておけるはずがないだろう！"
+,"select":"友を放っておけるはずがないだろう！"
 ,"hiragana":"ともをほおつておけるはずがないだろう"
 ,"result":"1"
 ,"trigramify": null
@@ -30785,7 +30785,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"恋しさと暖かさが感じられる音楽"
+,"select":"恋しさと温かさが感じられる音楽"
 ,"hiragana":"こいしさとあたたかさがかんじられるおんがく"
 ,"result":"1"
 ,"trigramify": null
@@ -31245,7 +31245,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"カリスマが感じられるように「かわいがらないで」と言ってみろ"
+,"select":"カリスマが感じられるように 「かわいがらないで」と言ってみろ"
 ,"hiragana":"かりすまがかんじられるようにかわいがらないでといつてみろ"
 ,"result":""
 ,"trigramify": null
@@ -31292,7 +31292,7 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ブリッドとディーゼルを連れいていこう！"
+,"select":"ブリッドとディーゼルを連れていこう！"
 ,"hiragana":"ぶりつどとでいーぜるをつれいていこう"
 ,"result":""
 ,"trigramify": null
@@ -31305,7 +31305,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"本当に背が伸びると思っているのか？"
+,"select":"本当に背が伸びると思ってるのか？"
 ,"hiragana":"ほんとうにせがのびるとおもつているのか"
 ,"result":""
 ,"trigramify": null
@@ -31405,8 +31405,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"前に行ったことある"
-,"hiragana":"まえにいつたことある"
+,"select":"昔行ったことがある"
+,"hiragana":"むかしにいつたことある"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -31565,7 +31565,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ディーゼルにほかの味のキャンディを買ってやれ"
+,"select":"ディーゼルに他の味のキャンディを買ってやれ"
 ,"hiragana":"でいーぜるにほかのあじのきやんでいをかつてやれ"
 ,"result":"1"
 ,"trigramify": null
@@ -31965,8 +31965,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"洗剤を飲ませてやれ　"
-,"hiragana":"せんざいをのませてやれ　"
+,"select":"洗剤を飲ませてやれ"
+,"hiragana":"せんざいをのませてやれ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -32205,7 +32205,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"相変わらずラプチャーと戦ってるかも"
+,"select":"相変わらずラプチャーと戦っているかも"
 ,"hiragana":"あいかわらずらぷちやーとたたかつてるかも"
 ,"result":"1"
 ,"trigramify": null
@@ -33392,8 +33392,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"気になるが怖い"
-,"hiragana":"きになるがこわい"
+,"select":"気にはなるが怖い"
+,"hiragana":"きにはなるがこわい"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -33485,7 +33485,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"規則的に運動して食事にも気を付けてる"
+,"select":"規則的に運動して食事にも気をつけてる"
 ,"hiragana":"きそくてきにうんどうしてしよくじにもきをつけてる"
 ,"result":""
 ,"trigramify": null
@@ -33745,8 +33745,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ネヴェのほうがもっと好きかも？"
-,"hiragana":"ねゔえのほうがもつとすきかも"
+,"select":"ネヴェのほうが好きかも？"
+,"hiragana":"ねゔえのほうがすきかも"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
