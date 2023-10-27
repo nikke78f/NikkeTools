@@ -27765,7 +27765,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"またタオルをポリを見間違えたのか？"
+,"select":"またタオルとポリを見間違えたのか？"
 ,"hiragana":"またたおるをぽりをみまちがえたのか"
 ,"result":""
 ,"trigramify": null
@@ -27852,8 +27852,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"うああああっ！！む、虫だ！！"
-,"hiragana":"うああああつむむしだ"
+,"select":"うあああっ！！む、虫だ！！"
+,"hiragana":"うあああつむむしだ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -27985,7 +27985,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"…大丈夫だ。ちょうど変え時だったから"
+,"select":"…大丈夫だ。ちょうど替え時だったから"
 ,"hiragana":"だいじようぶだちようどかえどきだつたから"
 ,"result":""
 ,"trigramify": null
