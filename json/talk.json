@@ -31614,7 +31614,7 @@
 ,{"id":2
 ,"select":"魂をこめて振っているから、そう見えるんじゃないか？"
 ,"hiragana":"たましいをこめてふつているからそうみえるんじゃないか"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31627,7 +31627,7 @@
 {"id":1
 ,"select":"それは自分で気づかないと意味がない"
 ,"hiragana":"それはじぶんできづかないといみがない"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31654,7 +31654,7 @@
 ,{"id":2
 ,"select":"いい仲間だと思っているから？"
 ,"hiragana":"いいなかまだとおもつているから"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31667,7 +31667,7 @@
 {"id":1
 ,"select":"まあ、それなりに魅力があるだろう？"
 ,"hiragana":"まあそれなりにみりよくがあるだろう"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31687,7 +31687,7 @@
 {"id":1
 ,"select":"うーん…今みたいな時間かな？"
 ,"hiragana":"うーんいまみたいなじかんかな"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31707,7 +31707,7 @@
 {"id":1
 ,"select":"嘘だ"
 ,"hiragana":"うそだ"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31734,7 +31734,7 @@
 ,{"id":2
 ,"select":"君たちといろいろな場所を巡りたい"
 ,"hiragana":"きみたちといろいろなばしよをめぐりたい"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31754,7 +31754,7 @@
 ,{"id":2
 ,"select":"カッコイイ武器だな？"
 ,"hiragana":"かつこいいぶきだな"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31774,7 +31774,7 @@
 ,{"id":2
 ,"select":"分かった、あとで注意しておく"
 ,"hiragana":"わかつたあとでちゆういしておく"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31794,7 +31794,7 @@
 ,{"id":2
 ,"select":"彼女たちなりの愛情表現では？"
 ,"hiragana":"かのじよたちなりのあいじようひようげんでは"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31807,7 +31807,7 @@
 {"id":1
 ,"select":"休む時は休む。言葉通り、休息だ"
 ,"hiragana":"やすむときはやすむことばどおりきゆうそくだ"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31827,7 +31827,7 @@
 {"id":1
 ,"select":"ほっぺをつついて起こす"
 ,"hiragana":"ほつぺをつついておこす"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31847,7 +31847,7 @@
 {"id":1
 ,"select":"いや、君が食べてくれ"
 ,"hiragana":"いやきみがたべてくれ"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31867,7 +31867,7 @@
 {"id":1
 ,"select":"受け流し方と大人っぽさは関係ないんじゃないか？"
 ,"hiragana":"うけながしかたとおとなつぽさはかんけいないんじゃないか"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31887,7 +31887,7 @@
 {"id":1
 ,"select":"私にとっても、少し気難しい"
 ,"hiragana":"わたしにとつてもすこしきむつかしい"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31907,7 +31907,7 @@
 {"id":1
 ,"select":"分けてあげる"
 ,"hiragana":"わけてあげる"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31927,7 +31927,7 @@
 {"id":1
 ,"select":"君が守ってくれるから、必要ない"
 ,"hiragana":"きみがまもつてくれるからひつようない"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31954,7 +31954,7 @@
 ,{"id":2
 ,"select":"真のセイジンになる過程だ。見守ってあげてくれ"
 ,"hiragana":"しんのせいじんになるかていだみまもつてあげてくれ"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31974,7 +31974,7 @@
 ,{"id":2
 ,"select":"雪"
 ,"hiragana":"ゆき"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -31987,7 +31987,7 @@
 {"id":1
 ,"select":"今晩一緒に寝るか？"
 ,"hiragana":"こんばんいつしよにねるか"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
