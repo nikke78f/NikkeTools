@@ -31600,6 +31600,406 @@
 }
 ]}
 ,{"id":1581
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"知らなかったのか？あれは生きてるんだ"
+,"hiragana":"しらなかつたのかあれはいきてるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"魂をこめて振っているから、そう見えるんじゃないか？"
+,"hiragana":"たましいをこめてふつているからそうみえるんじゃないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1582
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それは自分で気づかないと意味がない"
+,"hiragana":"それはじぶんできづかないといみがない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何だ、まだ夢を見てるのか？"
+,"hiragana":"なにだまだゆめをみてるのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1583
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"かわいいから？"
+,"hiragana":"かわいいから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いい仲間だと思っているから？"
+,"hiragana":"いいなかまだとおもつているから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1584
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"まあ、それなりに魅力があるだろう？"
+,"hiragana":"まあそれなりにみりよくがあるだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"古いものはイマイチだ"
+,"hiragana":"ふるいものはいまいちだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1585
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うーん…今みたいな時間かな？"
+,"hiragana":"うーんいまみたいなじかんかな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"特にない、面倒だ"
+,"hiragana":"とくにないめんどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1586
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"嘘だ"
+,"hiragana":"うそだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"本当だ"
+,"hiragana":"ほんとうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1587
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"特に考えたことがない"
+,"hiragana":"とくにかんがえたことがない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"君たちといろいろな場所を巡りたい"
+,"hiragana":"きみたちといろいろなばしよをめぐりたい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1588
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これは何だ？おもちゃか？"
+,"hiragana":"これはなにだおもちやか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"カッコイイ武器だな？"
+,"hiragana":"かつこいいぶきだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1589
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"分かった。「ガツン」"
+,"hiragana":"わかつたがつん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"分かった、あとで注意しておく"
+,"hiragana":"わかつたあとでちゆういしておく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1590
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"前世で敵同士だったんじゃないか？"
+,"hiragana":"ぜんせでかたきどうしだつたんじゃないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"彼女たちなりの愛情表現では？"
+,"hiragana":"かのじよたちなりのあいじようひようげんでは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1591
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"休む時は休む。言葉通り、休息だ"
+,"hiragana":"やすむときはやすむことばどおりきゆうそくだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何をしていると思う？"
+,"hiragana":"なにをしているとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1592
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ほっぺをつついて起こす"
+,"hiragana":"ほつぺをつついておこす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"鼻をくすぐって起こす"
+,"hiragana":"はなをくすぐつておこす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1593
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いや、君が食べてくれ"
+,"hiragana":"いやきみがたべてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"おお、じゃあーロだけ"
+,"hiragana":"おおじやあーろだけ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1594
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"受け流し方と大人っぽさは関係ないんじゃないか？"
+,"hiragana":"うけながしかたとおとなつぽさはかんけいないんじゃないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いくら何でも、リリスになるのは無理だ"
+,"hiragana":"いくらなんでもりりすになるのはむりだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1595
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私にとっても、少し気難しい"
+,"hiragana":"わたしにとつてもすこしきむつかしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…そう思ったことはない"
+,"hiragana":"うーんそうおもつたことはない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1596
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"分けてあげる"
+,"hiragana":"わけてあげる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"分けてあげるフリをする"
+,"hiragana":"わけてあげるふりをする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1597
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"君が守ってくれるから、必要ない"
+,"hiragana":"きみがまもつてくれるからひつようない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今持っているもので十分だ"
+,"hiragana":"いまもつているものでじゆうぶんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1598
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"禁断の書物にハマっているようだ"
+,"hiragana":"きんだんのしよもつにはまつているようだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"真のセイジンになる過程だ。見守ってあげてくれ"
+,"hiragana":"しんのせいじんになるかていだみまもつてあげてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1599
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どっちもそんなに"
+,"hiragana":"どつちもそんなに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"雪"
+,"hiragana":"ゆき"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1600
+,"name":"スノーホワイト：イノセントデイズ"
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今晩一緒に寝るか？"
+,"hiragana":"こんばんいつしよにねるか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"しょせん夢だ"
+,"hiragana":"しよせんゆめだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1601
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31619,7 +32019,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1582
+,{"id":1602
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31639,7 +32039,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1583
+,{"id":1603
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31659,7 +32059,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1584
+,{"id":1604
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31679,7 +32079,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1585
+,{"id":1605
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31699,7 +32099,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1586
+,{"id":1606
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31719,7 +32119,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1587
+,{"id":1607
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31739,7 +32139,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1588
+,{"id":1608
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31759,7 +32159,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1589
+,{"id":1609
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31779,7 +32179,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1590
+,{"id":1610
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31799,7 +32199,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1591
+,{"id":1611
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31819,7 +32219,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1592
+,{"id":1612
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31839,7 +32239,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1593
+,{"id":1613
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31859,7 +32259,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1594
+,{"id":1614
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31879,7 +32279,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1595
+,{"id":1615
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31899,7 +32299,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1596
+,{"id":1616
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31919,7 +32319,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1597
+,{"id":1617
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31939,7 +32339,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1598
+,{"id":1618
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31959,7 +32359,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1599
+,{"id":1619
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31979,7 +32379,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1600
+,{"id":1620
 ,"name":"ソリン"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -31999,7 +32399,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1601
+,{"id":1621
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32019,7 +32419,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1602
+,{"id":1622
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32039,7 +32439,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1603
+,{"id":1623
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32059,7 +32459,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1604
+,{"id":1624
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32079,7 +32479,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1605
+,{"id":1625
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32099,7 +32499,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1606
+,{"id":1626
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32119,7 +32519,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1607
+,{"id":1627
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32139,7 +32539,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1608
+,{"id":1628
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32159,7 +32559,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1609
+,{"id":1629
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32179,7 +32579,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1610
+,{"id":1630
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32199,7 +32599,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1611
+,{"id":1631
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32219,7 +32619,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1612
+,{"id":1632
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32239,7 +32639,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1613
+,{"id":1633
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32259,7 +32659,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1614
+,{"id":1634
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32279,7 +32679,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1615
+,{"id":1635
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32299,7 +32699,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1616
+,{"id":1636
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32319,7 +32719,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1617
+,{"id":1637
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32339,7 +32739,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1618
+,{"id":1638
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32359,7 +32759,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1619
+,{"id":1639
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32379,7 +32779,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1620
+,{"id":1640
 ,"name":"シュガー"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32399,7 +32799,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1621
+,{"id":1641
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32419,7 +32819,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1622
+,{"id":1642
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32439,7 +32839,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1623
+,{"id":1643
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32459,7 +32859,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1624
+,{"id":1644
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32479,7 +32879,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1625
+,{"id":1645
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32499,7 +32899,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1626
+,{"id":1646
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32519,7 +32919,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1627
+,{"id":1647
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32539,7 +32939,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1628
+,{"id":1648
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32559,7 +32959,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1629
+,{"id":1649
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32579,7 +32979,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1630
+,{"id":1650
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32599,7 +32999,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1631
+,{"id":1651
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32619,7 +33019,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1632
+,{"id":1652
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32639,7 +33039,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1633
+,{"id":1653
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32659,7 +33059,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1634
+,{"id":1654
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32679,7 +33079,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1635
+,{"id":1655
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32699,7 +33099,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1636
+,{"id":1656
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32719,7 +33119,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1637
+,{"id":1657
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32739,7 +33139,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1638
+,{"id":1658
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32759,7 +33159,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1639
+,{"id":1659
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32779,7 +33179,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1640
+,{"id":1660
 ,"name":"マクスウェル"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32799,7 +33199,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1641
+,{"id":1661
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32819,7 +33219,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1642
+,{"id":1662
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32839,7 +33239,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1643
+,{"id":1663
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32859,7 +33259,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1644
+,{"id":1664
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32879,7 +33279,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1645
+,{"id":1665
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32899,7 +33299,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1646
+,{"id":1666
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32919,7 +33319,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1647
+,{"id":1667
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32939,7 +33339,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1648
+,{"id":1668
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32959,7 +33359,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1649
+,{"id":1669
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32979,7 +33379,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1650
+,{"id":1670
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -32999,7 +33399,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1651
+,{"id":1671
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33019,7 +33419,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1652
+,{"id":1672
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33039,7 +33439,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1653
+,{"id":1673
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33059,7 +33459,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1654
+,{"id":1674
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33079,7 +33479,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1655
+,{"id":1675
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33099,7 +33499,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1656
+,{"id":1676
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33119,7 +33519,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1657
+,{"id":1677
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33139,7 +33539,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1658
+,{"id":1678
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33159,7 +33559,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1659
+,{"id":1679
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33179,7 +33579,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1660
+,{"id":1680
 ,"name":"ラプラス"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33199,7 +33599,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1661
+,{"id":1681
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33219,7 +33619,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1662
+,{"id":1682
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33239,7 +33639,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1663
+,{"id":1683
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33259,7 +33659,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1664
+,{"id":1684
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33279,7 +33679,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1665
+,{"id":1685
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33299,7 +33699,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1666
+,{"id":1686
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33319,7 +33719,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1667
+,{"id":1687
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33339,7 +33739,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1668
+,{"id":1688
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33359,7 +33759,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1669
+,{"id":1689
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33379,7 +33779,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1670
+,{"id":1690
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33399,7 +33799,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1671
+,{"id":1691
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33419,7 +33819,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1672
+,{"id":1692
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33439,7 +33839,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1673
+,{"id":1693
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33459,7 +33859,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1674
+,{"id":1694
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33479,7 +33879,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1675
+,{"id":1695
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33499,7 +33899,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1676
+,{"id":1696
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33519,7 +33919,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1677
+,{"id":1697
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33539,7 +33939,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1678
+,{"id":1698
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33559,7 +33959,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1679
+,{"id":1699
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33579,7 +33979,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1680
+,{"id":1700
 ,"name":"ラピ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33599,7 +33999,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1681
+,{"id":1701
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33619,7 +34019,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1682
+,{"id":1702
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33639,7 +34039,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1683
+,{"id":1703
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33659,7 +34059,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1684
+,{"id":1704
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33679,7 +34079,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1685
+,{"id":1705
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33699,7 +34099,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1686
+,{"id":1706
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33719,7 +34119,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1687
+,{"id":1707
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33739,7 +34139,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1688
+,{"id":1708
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33759,7 +34159,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1689
+,{"id":1709
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33779,7 +34179,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1690
+,{"id":1710
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33799,7 +34199,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1691
+,{"id":1711
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33819,7 +34219,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1692
+,{"id":1712
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33839,7 +34239,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1693
+,{"id":1713
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33859,7 +34259,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1694
+,{"id":1714
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33879,7 +34279,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1695
+,{"id":1715
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33899,7 +34299,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1696
+,{"id":1716
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33919,7 +34319,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1697
+,{"id":1717
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33939,7 +34339,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1698
+,{"id":1718
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33959,7 +34359,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1699
+,{"id":1719
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33979,7 +34379,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1700
+,{"id":1720
 ,"name":"ミハラ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -33999,7 +34399,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1701
+,{"id":1721
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34019,7 +34419,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1702
+,{"id":1722
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34039,7 +34439,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1703
+,{"id":1723
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34059,7 +34459,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1704
+,{"id":1724
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34079,7 +34479,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1705
+,{"id":1725
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34099,7 +34499,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1706
+,{"id":1726
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34119,7 +34519,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1707
+,{"id":1727
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34139,7 +34539,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1708
+,{"id":1728
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34159,7 +34559,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1709
+,{"id":1729
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34179,7 +34579,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1710
+,{"id":1730
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34199,7 +34599,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1711
+,{"id":1731
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34219,7 +34619,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1712
+,{"id":1732
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34239,7 +34639,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1713
+,{"id":1733
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34259,7 +34659,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1714
+,{"id":1734
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34279,7 +34679,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1715
+,{"id":1735
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34299,7 +34699,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1716
+,{"id":1736
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34319,7 +34719,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1717
+,{"id":1737
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34339,7 +34739,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1718
+,{"id":1738
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34359,7 +34759,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1719
+,{"id":1739
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34379,7 +34779,7 @@
 ,"hit": 0
 }
 ]}
-,{"id":1720
+,{"id":1740
 ,"name":"ネヴェ"
 ,"burstclass":"Ⅲ"
 ,"disp": 0
@@ -34394,6 +34794,406 @@
 ,{"id":2
 ,"select":"私のほうがかわいい"
 ,"hiragana":"わたしのほうがかわいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1741
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"熱くて盲目的なもの"
+,"hiragana":"あつくてもうもくてきなもの"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ドキドキして強欲なもの"
+,"hiragana":"どきどきしてごうよくなもの"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1742
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これからも説得を続ける"
+,"hiragana":"これからもせつとくをつづける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"もう手遅れじゃないか？"
+,"hiragana":"もうておくれじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1743
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"過去"
+,"hiragana":"かこ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"未来"
+,"hiragana":"みらい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1744
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そういうのとは？"
+,"hiragana":"そういうのとは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"まあ、そうだな"
+,"hiragana":"まあそうだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1745
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"携帯で聴く方が楽だ"
+,"hiragana":"けいたいできくほうがらくだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私はレコードが好きだ"
+,"hiragana":"わたしはれこーどがすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1746
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私のことか？"
+,"hiragana":"わたしのことか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"昔の仲間たちのことか？"
+,"hiragana":"むかしのなかまたちのことか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1747
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"当然リーダーシップだ"
+,"hiragana":"とうぜんりーだーしつぷだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"笑いのセンスじゃないか？"
+,"hiragana":"わらいのせんすじゃないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1748
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ウソをつくな"
+,"hiragana":"うそをつくな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"誰の話だ？"
+,"hiragana":"だれのはなしだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1749
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…まあ、かわいいな"
+,"hiragana":"まあかわいいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"変わった趣味だな"
+,"hiragana":"かわつたしゆみだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1750
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"カッコイイと思う"
+,"hiragana":"かつこいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ボロボロだなと思う"
+,"hiragana":"ぼろぼろだなとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1751
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大きな意味があると思う"
+,"hiragana":"おおきないみがあるとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"あまり意味はないと思う"
+,"hiragana":"あまりいみはないとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1752
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うーん…ドロシー？"
+,"hiragana":"うーんどろしー"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…スノーホワイト？"
+,"hiragana":"うーんすのーほわいと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1753
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ワイルドに酔っぱらっている"
+,"hiragana":"わいるどによつぱらつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"多分？"
+,"hiragana":"たぶん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1754
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気持ちは分かる"
+,"hiragana":"きもちはわかる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"むしろ蘇ったことを喜ぶべきでは？"
+,"hiragana":"むしろよみがえつたことをよろこぶべきでは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1755
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…綿？"
+,"hiragana":"わた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…真っ白な雪？"
+,"hiragana":"まつしろなゆき"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1756
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"その話し方は…ラピ？"
+,"hiragana":"そのはなしかたはらぴ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どうした、レッドフード？"
+,"hiragana":"どうしたれつどふーど"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1757
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"2人はよく言い争ってたのか？"
+,"hiragana":"ふたりはよくいいあらそつてたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"2人は仲がよかったのか？"
+,"hiragana":"ふたりはなかがよかつたのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1758
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"その歌、そろそろ飽きないか？"
+,"hiragana":"そのうたそろそろあきないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"レッドフードの鼻歌に合わせる"
+,"hiragana":"れつどふーどのはなうたにあわせる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1759
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうだ"
+,"hiragana":"そうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうではない"
+,"hiragana":"そうではない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1760
+,"name":"レッドフード"
+,"burstclass":"ⅠⅡⅢ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それはちょっと…"
+,"hiragana":"それはちよつと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"してみようか"
+,"hiragana":"してみようか"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
