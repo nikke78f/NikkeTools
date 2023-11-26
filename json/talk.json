@@ -16465,8 +16465,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"本当だ。 靴下を置いて眠る日を事前に教えてくれ"
-,"hiragana":"ほんとうだ くつしたをおいてねむるひをじぜんにおしえてくれ"
+,"select":"本当だ。靴下を置いて眠る日を事前に教えてくれ"
+,"hiragana":"ほんとうだくつしたをおいてねむるひをじぜんにおしえてくれ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -16505,15 +16505,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ああ。 信じる"
-,"hiragana":"ああ しんじる"
+,"select":"ああ。信じる"
+,"hiragana":"ああしんじる"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"いや。 奇跡なんてない"
-,"hiragana":"いや きせきなんてない"
+,"select":"いや。奇跡なんてない"
+,"hiragana":"いやきせきなんてない"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -16692,8 +16692,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"上手に描ければ最高だが、 下手でもいい"
-,"hiragana":"じうずにえがければさいこうだが へたでもいい"
+,"select":"上手に描ければ最高だが、下手でもいい"
+,"hiragana":"じうずにえがければさいこうだがへたでもいい"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -19746,7 +19746,7 @@
 ,"cases":[
 {"id":1
 ,"select":"[ 指揮官の名前 ]？"
-,"hiragana":"[ しきかんのなまえ ]"
+,"hiragana":""
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -26313,7 +26313,7 @@
 }
 ,{"id":2
 ,"select":"背が高くて大人っぽい人"
-,"hiragana":"せがたかくておとなつぽいひと　"
+,"hiragana":"せがたかくておとなつぽいひと"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -35195,6 +35195,406 @@
 ,"select":"してみようか"
 ,"hiragana":"してみようか"
 ,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1761
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どうして急に？"
+,"hiragana":"どうしてきゆうに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どんな極限の状況でも2人なら乗り越えられると感じること"
+,"hiragana":"どんなきよくげんのじようきようでもふたりならのりこえられるとかんじること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1762
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うごめいている袋を選ぶ"
+,"hiragana":"うごめいているふくろをえらぶ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"赤みがかっている袋を選ぶ"
+,"hiragana":"あかみがかつているふくろをえらぶ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1763
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サバイバルグルメ"
+,"hiragana":"さばいばるぐるめ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"パーフェクト"
+,"hiragana":"ぱーふえくと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1764
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"達人から教えてもらった"
+,"hiragana":"たつじんからおしえてもらつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私にとっては、すべてただの昼ご飯に過ぎない"
+,"hiragana":"わたしにとつてはすべてただのひるごはんにすぎない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1765
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"時間がすべてを解決してくれる"
+,"hiragana":"じかんがすべてをかいけつしてくれる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"救えなかった人よりも、救い出せた人たちのことを考えよう"
+,"hiragana":"すくえなかつたひとよりもすくいだせたひとたちのことをかんがえよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1766
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いつものように、私を頼ればいい"
+,"hiragana":"いつものようにわたしをたよればいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何度も挑戦して、上達していけばいい"
+,"hiragana":"なんどもちようせんしてじようたつしていけばいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1767
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"自然の音"
+,"hiragana":"しぜんのおと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ノイズちゃん"
+,"hiragana":"のいずちやん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1768
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…どうして気付かなかったんだろう？"
+,"hiragana":"どうしてきづかなかつたんだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そもそも、ラプチャーにそこまで近づけない"
+,"hiragana":"そもそもらぷちやーにそこまでちかづけない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1769
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"まさか…ネヴェ？"
+,"hiragana":"まさかねヴえ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"まさか…クマ？"
+,"hiragana":"まさかくま"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1770
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ウサギのマネをしてみろ"
+,"hiragana":"うさぎのまねをしてみろ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"トーブはトーブのままでいい"
+,"hiragana":"とーぶはとーぶのままでいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1771
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"当然、トーブだ"
+,"hiragana":"とうぜんとーぶだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ブラックマンバ"
+,"hiragana":"ぶらつくまんば"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1772
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"正体不明の草の根"
+,"hiragana":"しようたいふめいのくさのね"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"枝についているマツの葉"
+,"hiragana":"えだについているまつのは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1773
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"自分でカメラマンもしてみたらどうだ？"
+,"hiragana":"じぶんでかめらまんもしてみたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私が引退したらやってあげよう"
+,"hiragana":"わたしがいんたいしたらやつてあげよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1774
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"戦って奪うこと？"
+,"hiragana":"たたかつてうばうこと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どんなに少ない資源でも、今あるものを活用すること"
+,"hiragana":"どんなにすくないしげんでもいまあるものをかつようすること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1775
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どこででも眠れる安眠枕"
+,"hiragana":"どこででもねむれるあんみんまくら"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"機械の故障を防いでくれる魔法のバリア"
+,"hiragana":"きかいのこしようをふせいでくれるまほうのばりあ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1776
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"新世代の新入社員"
+,"hiragana":"しんせだいのしんにゆうしやいん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"消防士"
+,"hiragana":"しようぼうし"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1777
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サバイバルグルメを上手く紹介する自信はあるか？"
+,"hiragana":"さばいばるぐるめをうまくしようかいするじしんはあるか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"似たようなコンセプトの番組がないから、上手くいきそうだ"
+,"hiragana":"にたようなこんせぷとのばんぐみがないからうまくいきそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1778
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"正直、想像がつかない"
+,"hiragana":"しようじきそうぞうがつかない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"意外に抜けていたかも？"
+,"hiragana":"いがいにぬけていたかも"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1779
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろん、地上奪還だ"
+,"hiragana":"もちろんちじようだつかんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"わたしも生き残ることが目標だ"
+,"hiragana":"わたしもいきのこることがもくひようだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1780
+,"name":"トーブ"
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今度アークに遊びに来てくれ"
+,"hiragana":"こんどあーくにあそびにきてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"砂漠に行ってみるのはどうだ？"
+,"hiragana":"さばくにいつてみるのはどうだ"
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
