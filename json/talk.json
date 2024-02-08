@@ -35966,7 +35966,7 @@
 }
 ,{"id":2
 ,"select":"おお、じゃあーロだけ"
-,"hiragana":"おおじやあーろだけ"
+,"hiragana":"おおじやあひとくちだけ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -36001,7 +36001,7 @@
 ,"cases":[
 {"id":1
 ,"select":"私にとっても、少し気難しい"
-,"hiragana":"わたしにとつてもすこしきむつかしい"
+,"hiragana":"わたしにとつてもすこしきむずかしい"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
