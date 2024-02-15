@@ -39899,4 +39899,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":1901
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"こんなにたくさん作るのは、大変じゃないか？"
+,"hiragana":"こんなにたくさんつくるのはたいへんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"おいしそうだな。いただきます"
+,"hiragana":"おいしそうだないただきます"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1902
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"晴れの日が好きだ。エードは？"
+,"hiragana":"はれのひがすきだえーどは"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"雨の日が好きだ。エードは？"
+,"hiragana":"あめのひがすきだえーどは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1903
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"エードが呪文を唱えるのを待つ"
+,"hiragana":"えーどがじゆもんをとなえるのをまつ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"自分で呪文を唱える"
+,"hiragana":"じぶんでじゆもんをとなえる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1904
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"心のこもったサービス？"
+,"hiragana":"こころのこもつたさーびす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"専門的で熟練したサービス？"
+,"hiragana":"せんもんてきでじゆくれんしたさーびす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1905
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ケチャップがあちこちに飛ぶから…"
+,"hiragana":"けちやつぷがあちこちにとぶから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、もちろん好きだ"
+,"hiragana":"ああもちろんすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1906
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"真面目でプロフェッショナルな人"
+,"hiragana":"まじめでぷろふえつしよなるなひと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"かわいくて明るい人"
+,"hiragana":"かわいくてあかるいひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1907
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"エードと一緒にお出かけ"
+,"hiragana":"えーどといつしよにおでかけ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"メイドカフェ利用し放題券"
+,"hiragana":"めいどかふえりようしほうだいけん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1908
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仲間たちは少しプレッシャーに感じているんじゃないか？"
+,"hiragana":"なかまたちはすこしぷれつしやーにかんじているんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私も完璧を求めた方がいいと思う"
+,"hiragana":"わたしもかんぺきをもとめたほうがいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1909
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ありがとう"
+,"hiragana":"ありがとう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私の部屋ではないみたいだ…"
+,"hiragana":"わたしのへやではないみたいだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1910
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"丁寧に一文字ずつ名前を書いてみよう"
+,"hiragana":"ていねいにいちもんじずつなまえをかいてみよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"オシャレにひょひょいと名前を書いてみよう"
+,"hiragana":"おしやれにひよひよいとなまえをかいてみよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1911
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"つけながら食べる方が好き"
+,"hiragana":"つけながらたべるほうがすき"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"最初に全部かけて食べる方が好き"
+,"hiragana":"さいしよにぜんぶかけてたべるほうがすき"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1912
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"やっぱりワゴンがないと不便だろうな"
+,"hiragana":"やつぱりわごんがないとふべんだろうな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一緒に働いていたパートナーが不調だから気になるのか？"
+,"hiragana":"いつしよにはたらいていたぱーとなーがふちようだからきになるのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1913
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"部屋でゴロゴロしながらリラックスして過ごす"
+,"hiragana":"へやでごろごろしながらりらつくすしてすごす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"外出してあちこち歩き回る"
+,"hiragana":"がいしゆつしてあちこちあるきまわる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1914
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"眠ってしまったようだな。すまない"
+,"hiragana":"ねむつてしまつたようだなすまない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いい夢を見てたのに残念だな"
+,"hiragana":"いいゆめをみてたのにざんねんだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1915
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いつものやつで頼む"
+,"hiragana":"いつものやつでたのむ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"温かいアイスミルクティーを頼む"
+,"hiragana":"あたたかいあいすみるくていーをたのむ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1916
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私はメイド服を着たエードが一番好きだ"
+,"hiragana":"わたしはめいどふくをきたえーどがいちばんすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、私服のエードも気になるな"
+,"hiragana":"ああしふくのえーどもきになるな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1917
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"幸せエネルギーで満たされているんじゃないか？"
+,"hiragana":"しあわせえねるぎーでみたされているんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"単純だからじゃないか？"
+,"hiragana":"たんじゆんだからじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1918
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"1人で部屋で静かに休んでいる時"
+,"hiragana":"ひとりでへやでしずかにやすんでいるとき"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エードと一緒にいる時"
+,"hiragana":"えーどといつしよにいるとき"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1919
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うーん…ソーダが転んでズボンにドリンクがこぼれた"
+,"hiragana":"うーんそーだがころんでずぼんにどりんくがこぼれた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ない。いつも完璧だ"
+,"hiragana":"ないいつもかんぺきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1920
+,"name":"エード"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"友だちみたいで気楽だからじゃないか？"
+,"hiragana":"ともだちみたいできらくだからじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私に頼れるからじゃないか？"
+,"hiragana":"わたしにたよれるからじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
