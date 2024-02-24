@@ -40319,4 +40319,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":1921
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ここにもBOOMをインストールするのか？"
+,"hiragana":"ここにもぶーむをいんすとーるするのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"おお、ありがとう！"
+,"hiragana":"おおありがとう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1922
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"新しいハードを買う"
+,"hiragana":"あたらしいはーどをかう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ハードの最後を飾る容量の小さいゲームをインストールする"
+,"hiragana":"はーどのさいごをかざるようりようのちいさいげーむをいんすとーるする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1923
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"優秀で素敵なニケ"
+,"hiragana":"ゆうしゆうですてきなにけ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"口数が少なく、静かなニケ"
+,"hiragana":"くちかずがすくなくしずかなにけ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1924
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"見たことある"
+,"hiragana":"みたことある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"見たことない"
+,"hiragana":"みたことない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1925
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"バチッ！！"
+,"hiragana":"ばちつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ボーン！"
+,"hiragana":"ぼーん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1926
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"小さな容量、高いクオリティ"
+,"hiragana":"ちいさなようりようたかいくおりてい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"小さな容量、スリル満点の面白さ"
+,"hiragana":"ちいさなようりようすりるまんてんのおもしろさ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1927
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"初めて知った！"
+,"hiragana":"はじめてしつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"もちろん知っていた"
+,"hiragana":"もちろんしつていた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1928
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ブームガイ"
+,"hiragana":"ぶーむがい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"トロニー"
+,"hiragana":"とろにー"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1929
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それはちょっと引っかかる"
+,"hiragana":"それはちよつとひつかかる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ゲームを楽しむ方法の1つだから問題ないのでは？"
+,"hiragana":"げーむをたのしむほうほうのひとつだからもんだいないのでは"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1930
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろんBOOMだ！"
+,"hiragana":"もちろんぶーむだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…正直、ファイナル・クエスト！"
+,"hiragana":"しようじきふあいなるくえすと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1931
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"乾燥してるから…？"
+,"hiragana":"かんそうしてるから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"寒い日が好きだから…？"
+,"hiragana":"さむいひがすきだから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1932
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これでシャワー中も退屈しないな！"
+,"hiragana":"これでしやわーちゆうもたいくつしないな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…シャワー室の鏡にどうやって…？"
+,"hiragana":"しやわーしつのかがみにどうやつて"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1933
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"電子、電気、電線、電流！"
+,"hiragana":"でんしでんきでんせんでんりゆう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"伝記、伝言、伝染、伝説！"
+,"hiragana":"でんきでんごんでんせんでんせつ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1934
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"座ると電気が流れる椅子"
+,"hiragana":"すわるとでんきがながれるいす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"BOOMがインストールされているテーブル"
+,"hiragana":"ぶーむがいんすとーるされているてーぶる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1935
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私はカッコイイと思う"
+,"hiragana":"わたしはかつこいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"他の部隊も似たようなものだ"
+,"hiragana":"ほかのぶたいもにたようなものだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1936
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"飲ませないように、取りあげよう！"
+,"hiragana":"のませないようにとりあげよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"飲む数を決めておこう"
+,"hiragana":"のむかずをきめておこう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1937
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、邪魔そうに見える"
+,"hiragana":"ああじやまそうにみえる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、特に何も思わない"
+,"hiragana":"いやとくになにもおもわない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1938
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私にはよく分からない…"
+,"hiragana":"わたしにはよくわからない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうだな、面白そうだ！"
+,"hiragana":"そうだなおもしろそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1939
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろんある"
+,"hiragana":"もちろんある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、ない"
+,"hiragana":"いやない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1940
+,"name":"エレグ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仕方ない。それも生きるだめだ"
+,"hiragana":"しかたないそれもいきるだめだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そんな汚い金をもらいながら生きていきたくない"
+,"hiragana":"そんなきたないきんをもらいながらいきていきたくない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
