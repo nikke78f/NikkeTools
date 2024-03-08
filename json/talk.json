@@ -40739,4 +40739,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":1941
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私もたまにそんなことを思う"
+,"hiragana":"わたしもたまにそんなことをおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それは君には似合わない"
+,"hiragana":"それはきみにはにあわない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1942
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"改めて、私の妻は本当にかわいいと思ったんだ"
+,"hiragana":"あらためてわたしのつまはほんとうにかわいいとおもつたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"任務がない日にも変装をするのか？"
+,"hiragana":"にんむがないひにもへんそうをするのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1943
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"メイド服"
+,"hiragana":"めいどふく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ワンピース"
+,"hiragana":"わんぴーす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1944
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"別に思わない"
+,"hiragana":"べつにおもわない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"たまにそう思う時もある"
+,"hiragana":"たまにそうおもうときもある"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1945
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ありがとう。君は今日何をしていたんだ？"
+,"hiragana":"ありがとうきみはきようなにをしていたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"えっと…私はずっとここに座っていたが？"
+,"hiragana":"えつとわたしはずつとここにすわつていたが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1946
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"自由時間"
+,"hiragana":"じゆうじかん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そういう君は何が欲しいんだ？"
+,"hiragana":"そういうきみはなにがほしいんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1947
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"花"
+,"hiragana":"はな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"実用的なもの"
+,"hiragana":"じつようてきなもの"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1948
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何をしてるんだ？"
+,"hiragana":"なにをしてるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"あなたの方がいいと思う"
+,"hiragana":"あなたのほうがいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1949
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"コーヒーを淹れよう"
+,"hiragana":"こーひーをいれよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大丈夫か？"
+,"hiragana":"だいじようぶか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1950
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"君が作ってくれるものなら何でも嬉しい"
+,"hiragana":"きみがつくつてくれるものならなんでもうれしい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"もう夕飯は食べたが…？"
+,"hiragana":"もうゆうはんはたべたが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1951
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"痕跡を残さずに済むから"
+,"hiragana":"こんせきをのこさずにすむから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"任務で楽をしてはいけないから"
+,"hiragana":"にんむでらくをしてはいけないから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1952
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ここまで詳しく決める必要があるのか？"
+,"hiragana":"ここまでくわしくきめるひつようがあるのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"できるだけ覚えておこう"
+,"hiragana":"できるだけおぼえておこう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1953
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…分かった"
+,"hiragana":"わかつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…危険なものじゃないよな？"
+,"hiragana":"きけんなものじやないよな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1954
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"とりあえず任務を中断する？"
+,"hiragana":"とりあえずにんむをちゆうだんする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ターゲットを排除する？"
+,"hiragana":"たーげつとをはいじよする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1955
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"えっ？赤いシミ？どこだ？"
+,"hiragana":"えつあかいしみどこだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、これか？ワインをこぼしたみたいだな"
+,"hiragana":"ああこれかわいんをこぼしたみたいだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1956
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何とかして別の方法を探す"
+,"hiragana":"なんとかしてべつのほうほうをさがす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それに伴う責任を取る"
+,"hiragana":"それにともなうせきにんをとる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1957
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"頼れるもの"
+,"hiragana":"たよれるもの"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"依存できるもの"
+,"hiragana":"いぞんできるもの"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1958
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"べ、別に…"
+,"hiragana":"べべつに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"中に何が入ってるんだ？"
+,"hiragana":"なかになにがはいつてるんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1959
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そのタトゥーにはどんな意味があるんだ？"
+,"hiragana":"そのたとうーにはどんないあじがあるんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…何でもない"
+,"hiragana":"なんでもない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1960
+,"name":"D：キラーワイフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"根本的な原因を突き止めて解決すればいい"
+,"hiragana":"こんぽんてきなげんいんをつきとめてかいけつすればいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"罪を犯した者が責任を取れるようにすればいい"
+,"hiragana":"つみをおかしたものがせきにんをとれるようにすればいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
