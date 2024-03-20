@@ -8364,15 +8364,15 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"あ、愛してる、地上よ！"
-,"hiragana":"ああいしてるちじようよ"
+,"select":"私から話しておく"
+,"hiragana":"わたしからはなしておく"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"た、助けてください！"
-,"hiragana":"たたすけてください"
+,"select":"ロザンナが上手く説得してくれ"
+,"hiragana":"ろざんながうまくせつとくしてくれ"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
@@ -15674,7 +15674,7 @@
 {"id":1
 ,"select":"先に食べるタイプだ"
 ,"hiragana":"さきにたべるたいぷだ"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
