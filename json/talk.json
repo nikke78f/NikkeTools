@@ -41159,4 +41159,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":1961
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"相手を応援する気持ち"
+,"hiragana":"あいてをおうえんするきもち"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大きな声と身ぶり"
+,"hiragana":"おおきなこえとみぶり"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1962
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サスペンス映画"
+,"hiragana":"さすぺんすえいが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"青春映画"
+,"hiragana":"せいしゆんえいが"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1963
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"華麗なテクニックを中心としたチアリーディング"
+,"hiragana":"かれいなてくにつくをちゆうしんとしたちありーでいんぐ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"明るく元気いっぱいのチアリーディング"
+,"hiragana":"あかるくげんきいつぱいのちありーでいんぐ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1964
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ベイのホクロ全部"
+,"hiragana":"べいのほくろぜんぶ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"胸の横"
+,"hiragana":"むねのよこ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1965
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ボリューム"
+,"hiragana":"ぼりゆーむ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私…はどうだ？"
+,"hiragana":"わたしはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1966
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アブソルート"
+,"hiragana":"あぶそるーと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"アラベスク"
+,"hiragana":"あらべすく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1967
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"爽やかなポップソング"
+,"hiragana":"さわやかなぽつぷそんぐ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ベースが響くロックバラード"
+,"hiragana":"べーすがひびくろつくばらーど"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1968
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"スポーツウェア専用の洗剤を使おう"
+,"hiragana":"すぽーつうえあせんようのせんざいをつかおう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"手洗いをしよう"
+,"hiragana":"てあらいをしよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1969
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"他のチアリーダー?"
+,"hiragana":"ほかのちありーだー"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ベイは私が応援する!"
+,"hiragana":"べいはわたしがおうえんする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1970
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ベイならできる!"
+,"hiragana":"べいならできる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"弱音を吐くな"
+,"hiragana":"よわねをはくな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1971
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"合宿をしたらどうだ？"
+,"hiragana":"がつしゆくをしたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"時間が解決してくれるはずだ"
+,"hiragana":"じかんがかいけつしてくれるはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1972
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大人っぽいツーピーススーツ"
+,"hiragana":"おとなつぽいつーぴーすすーつ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"流行りのストリートファッション"
+,"hiragana":"はやりのすとりーとふあつしよん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1973
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"曇りの日"
+,"hiragana":"くもりのひ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"晴れの日"
+,"hiragana":"はれのひ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1974
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"重めなムスクの香り"
+,"hiragana":"おもめなむすくのかおり"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"甘いキャンディの香り"
+,"hiragana":"あまいきやんでいのかおり"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1975
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私も食べ物の誘惑には勝てない"
+,"hiragana":"わたしもたべもののゆうわくにはかてない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"応援していたら食べている時間なんてない"
+,"hiragana":"おうえんしていたらたべているじかんなんてない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1976
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"スタミナ料理"
+,"hiragana":"すたみなりようり"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"鶏むね肉のサラダ"
+,"hiragana":"にわとりむねにくのさらだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1977
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ウォーキング"
+,"hiragana":"うおーきんぐ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"深呼吸"
+,"hiragana":"しんこきゆう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1978
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうか。栄光の傷だな"
+,"hiragana":"そうかえいこうのきずだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それでもケガしないでほしい"
+,"hiragana":"それでもけがしないでほしい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1979
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"闇のダークネスブラック"
+,"hiragana":"やみのだーくねすぶらつく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"リワインドのユニフォームに合うピンク"
+,"hiragana":"りわいんどのゆにふおーむにあうぴんく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1980
+,"name":"ベイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何してるんだ?"
+,"hiragana":"なにしてるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"You can do it!"
+,"hiragana":"ゆーきやんどういと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
