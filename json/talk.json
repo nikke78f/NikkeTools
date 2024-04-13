@@ -41334,14 +41334,14 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"他のチアリーダー?"
+,"select":"他のチアリーダー？"
 ,"hiragana":"ほかのちありーだー"
 ,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
-,"select":"ベイは私が応援する!"
+,"select":"ベイは私が応援する！"
 ,"hiragana":"べいはわたしがおうえんする"
 ,"result":"1"
 ,"trigramify": null
@@ -41355,7 +41355,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"ベイならできる!"
+,"select":"ベイならできる！"
 ,"hiragana":"べいならできる"
 ,"result":"1"
 ,"trigramify": null
@@ -41565,7 +41565,7 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"何してるんだ?"
+,"select":"何してるんだ？"
 ,"hiragana":"なにしてるんだ"
 ,"result":""
 ,"trigramify": null
