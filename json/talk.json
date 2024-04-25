@@ -41579,4 +41579,844 @@
 ,"hit": 0
 }
 ]}
+,{"id":1981
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どうしてクラウンが王になったんだ？"
+,"hiragana":"どうしてくらうんがおうになつたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どんな宝を守ってるんだ？"
+,"hiragana":"どんなたからをまもつてるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1982
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"チャイムもクラウンがいるから心強いはずだ"
+,"hiragana":"ちやいむもくらうんがいるからこころづよいはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"え？心強いか？"
+,"hiragana":"えこころづよいか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1983
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"話しかけずに待つ"
+,"hiragana":"はなしかけずにまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1984
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大丈夫か？どこか具合が悪いのか？"
+,"hiragana":"だいじようぶかどこかぐあいがわるいのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ゆっくり食べるんだ。胃もたれするぞ"
+,"hiragana":"ゆつくりたべるんだいもたれするぞ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1985
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"最近はミミズグミが流行ってる"
+,"hiragana":"さいきんはみみずぐみがはやつてる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"スイーツはいつも人気だ"
+,"hiragana":"すいーつはいつもにんきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1986
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"暖かい晴れの日"
+,"hiragana":"あたたかいはれのひ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"涼しい雨の日"
+,"hiragana":"すずしいあめのひ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1987
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"単独…突入？"
+,"hiragana":"たんどくとつにゆう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"行くつもりはない…すまない"
+,"hiragana":"いくつもりはないすまない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1988
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もしかして面談のことか？"
+,"hiragana":"もしかしてめんだんのことか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、面接を始めよう"
+,"hiragana":"ああめんせつをはじめよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1989
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"元気でな"
+,"hiragana":"げんきでな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一緒に行けないのが残念だ"
+,"hiragana":"いつしよにいけないのがざんねんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1990
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クラウンの願いはなんだ？"
+,"hiragana":"くらうんのねがいはなんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それがクラウンの願いか？カッコいいな"
+,"hiragana":"それがくらうんのねがいかかつこいいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1991
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"わあ、そんなに？"
+,"hiragana":"わあそんなに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"1人で統率するのは大変じゃないか？"
+,"hiragana":"ひとりでとうそつするのはたいへんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1992
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"王らしい王がいること"
+,"hiragana":"おうらしいおうがいること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"豊かで満たされていること"
+,"hiragana":"ゆたかでみたされていること"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1993
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"民が望む通りに国を導く存在"
+,"hiragana":"たみがのぞむとおりにくにをみちびくそんざい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"自分が望む通りに国を導く存在"
+,"hiragana":"じぶんがのぞむとおりにくにをみちびくそんざい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1994
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…よだれを拭いたらどうだ？"
+,"hiragana":"よだれをふいたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"食べてみるか？"
+,"hiragana":"たべてみるか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1995
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クラウンが民を気遣うのと同じ理由じゃないか？"
+,"hiragana":"くらうんがたみをきづかうのとおなじりゆうじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ただ楽しいから"
+,"hiragana":"ただたのしいから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1996
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"散歩にでも行ったんじゃないか？"
+,"hiragana":"さんぽにでもいつたんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"周辺の偵察に行ったんじゃないか？"
+,"hiragana":"しゆうへんのていさつにいつたんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1997
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気になるなら、いつでも遊びにきてくれ"
+,"hiragana":"きになるならいつでもあそびにきてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"王国みたいに壮大な場所ではない"
+,"hiragana":"おうこくみたいにそうだいなばしよではない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1998
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"不思議か？"
+,"hiragana":"ふしぎか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"堂々とのぞき見か？"
+,"hiragana":"どうどうとのぞきみか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":1999
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私たちの絆の方が深い"
+,"hiragana":"わたしたちのきずなのほうがふかい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"君たちの絆の方が深そうだ"
+,"hiragana":"きみたちのきずなのほうがふかそうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2000
+,"name":"クラウン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"天真らんまんで純粋な人"
+,"hiragana":"てんしんらんまんでじゆんすいなひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"優しくてあたたかい人"
+,"hiragana":"やさしくてあたたかいじん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2001
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大事なのは自信を持つことだ。昔からの友だちのように馴れ馴れしくいこう！"
+,"hiragana":"だいじなのはじしんをもつことだむかしからのともだちのようになれなれしくいこう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"警戒されないように、慎重に行動しよう"
+,"hiragana":"けいかいされないようにしんちようにこうどうしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2002
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"元気を出せ。次はもっとうまくやれるはずだ"
+,"hiragana":"げんきをだせつぎはもつとうまくやれるはずだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"テストがかなり難しかったのか？"
+,"hiragana":"てすとがかなりむずかしかつたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2003
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"え？どうやって交換するんだ？"
+,"hiragana":"えどうやつてこうかんするんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大丈夫。気にしなくていい"
+,"hiragana":"だいじようぶきにしなくていい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2004
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ポジティブで明るい人"
+,"hiragana":"ぽじていぶであかるいひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"強くて頼もしい人"
+,"hiragana":"つよくてたのもしいひと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2005
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうだな。今日みたいに運がいい日もある"
+,"hiragana":"そうだなきようみたいにうんがいいひもある"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"運じゃなくて実力だ"
+,"hiragana":"うんじやなくてじつりよくだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2006
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ゆっくり休むのはどうだ？"
+,"hiragana":"ゆつくりやすむのはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やりたいことをやろう"
+,"hiragana":"やりたいことをやろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2007
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"タロス"
+,"hiragana":"たろす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私！"
+,"hiragana":"わたし"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2008
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"キロはキロで、タロスはタロスだ"
+,"hiragana":"きろはきろでたろすはたろすだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"おっ、キロス？悪くないな"
+,"hiragana":"おつきろすわるくないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2009
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"機体と心を通わせること？"
+,"hiragana":"きたいとこころをかよわせること"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"客観的な判断と素早い決断力？"
+,"hiragana":"きやつかんてきなはんだんとすばやいけつだんりよく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2010
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今は違うのか？"
+,"hiragana":"いまはちがうのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いつかそうなるはずだ"
+,"hiragana":"いつかそうなるはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2011
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"カッコイイからじゃないか？"
+,"hiragana":"かつこいいからじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"面倒見がいいからじゃないか？"
+,"hiragana":"めんどうみがいいからじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2012
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"起こす"
+,"hiragana":"おこす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"起こさずに待つ"
+,"hiragana":"おこさずにまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2013
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"わあ、すごいな！"
+,"hiragana":"わあすごいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"え~嘘じゃないか？"
+,"hiragana":"えーうそじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2014
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ある"
+,"hiragana":"ある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ない"
+,"hiragana":"ない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2015
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"タロスの操縦が得意だろう？"
+,"hiragana":"たろすのそうじゆうがとくいだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…どうだろう。少し考えさせてくれ"
+,"hiragana":"うーんどうだろうすこしかんがえさせてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2016
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"流れに身を任せるタイプだ"
+,"hiragana":"ながれにみをまかせるたいぷだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うまくいった時のことを思い出して落ち込まないようにする"
+,"hiragana":"うまくいつたときのことをおもいだしておちこまないようにする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2017
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大切なパートナーはどこだ？"
+,"hiragana":"たいせつなぱーとなーはどこだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今日は二人きりで仲よく面談できるな"
+,"hiragana":"きようはふたりきりでなかよくめんだんできるな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2018
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どう見えるって…？"
+,"hiragana":"どうみえるつて"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…いつもよりキラキラしてる？"
+,"hiragana":"うーんいつもよりきらきらしてる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2019
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"晴れの日"
+,"hiragana":"はれのひ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"曇りの日"
+,"hiragana":"くもりのひ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2020
+,"name":"キロ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"タロス、歌って"
+,"hiragana":"たろすうたつて"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"タロス、踊って"
+,"hiragana":"たろすおどつて"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
