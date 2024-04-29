@@ -10,12 +10,15 @@
     ,{ "check": false, "name": "クレジット" }
     ,{ "check": false, "name": "バトルデータ" }
     ,{ "check": false, "name": "コアダスト" }
+    ,{ "check": false, "name": "中央政府補給物資" }
     ,{ "check": false, "name": "スキルマニュアルⅠ" }
     ,{ "check": false, "name": "スキルマニュアルⅡ" }
     ,{ "check": false, "name": "スキルマニュアルⅢ" }
+    ,{ "check": false, "name": "スキルマニュアル選択ボックス" }
     ,{ "check": false, "name": "バーストマニュアルⅠ" }
     ,{ "check": false, "name": "バーストマニュアルⅡ" }
     ,{ "check": false, "name": "バーストマニュアルⅢ" }
+    ,{ "check": false, "name": "バーストマニュアル選択ボックス" }
     ,{ "check": false, "name": "属性コードマニュアル" }
     ,{ "check": false, "name": "カンパニーアームズ" }
     ,{ "check": false, "name": "カスタムモジュール" }
