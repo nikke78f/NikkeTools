@@ -8308,8 +8308,8 @@
 ,"hit": 0
 }
 ,{"id":2
-,"select":"話しかける"
-,"hiragana":"はなしかける"
+,"select":"話しかけてみる"
+,"hiragana":"はなしかけてみる"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -23883,8 +23883,8 @@
 ,"disp": 0
 ,"cases":[
 {"id":1
-,"select":"マルチャーナのお腹に毛布を掛けてあげる"
-,"hiragana":"まるちやーなのおなかにもうふをかけてあげる"
+,"select":"マルチャーナのお腹の上に毛布をかけてあげる"
+,"hiragana":"まるちやーなのおなかのうえにもうふをかけてあげる"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
@@ -42415,6 +42415,426 @@
 ,"select":"タロス、踊って"
 ,"hiragana":"たろすおどつて"
 ,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2021
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"まずは整理整頓から始めたらどうだ？"
+,"hiragana":"まずはせいりせいとんからはじめたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ゴミ箱を持つ。手当たりしだいに全部突っ込む。それだけだ"
+,"hiragana":"ごみばこをもつてあたりしだいにぜんぶつつこむそれだけだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2022
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"やる気いっぱいのレッド"
+,"hiragana":"やるきいつぱいのれつど"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ロマンチックなブラック"
+,"hiragana":"ろまんちつくなぶらつく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2023
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ショッピングセンターにあるゲームセンター"
+,"hiragana":"しよつぴんぐせんたーにあるげーむせんたー"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"指揮官室"
+,"hiragana":"しきかんしつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2024
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何より先に水だろう"
+,"hiragana":"なによりさきにみずだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"袋に書いてあるレシピ通りに作るのが一番じゃないか？"
+,"hiragana":"ふくろにかいてあるれしぴどおりにつくるのがいちばんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2025
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"運動には入らない"
+,"hiragana":"うんどうにははいらない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"もちろん運動だ"
+,"hiragana":"もちろんうんどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2026
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いや、晴れの日の方が好きだ"
+,"hiragana":"いやはれのひのほうがすきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、好きだ"
+,"hiragana":"ああすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2027
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"よお、パートナー。まだ生きてるか？"
+,"hiragana":"よおぱーとなーまだいきてるか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"フライトシューティングゲームだろう？"
+,"hiragana":"ふらいとしゆーていんぐげーむだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2028
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"トロニー、どうしたんだ？"
+,"hiragana":"とろにーどうしたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"……"
+,"hiragana":"……"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2029
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今みたいに平和な日々を過ごすこと"
+,"hiragana":"いまみたいにへいわなひびをすごすこと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"地上を奪還すること"
+,"hiragana":"ちじようをだつかんすること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2030
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"メティス部隊が必死に自転車を漕いでるんじゃないか？"
+,"hiragana":"めていすぶたいがひつしにじてんしやをこいでるんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"発電機を使ってるんじゃないか？"
+,"hiragana":"はつでんきをつかつてるんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2031
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私も気になっていたところだ"
+,"hiragana":"わたしもきになつていたところだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やるべきことだから、やらないと"
+,"hiragana":"やるべきことだからやらないと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2032
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"簡単に食べられるインスタントフード"
+,"hiragana":"かんたんにたべられるいんすたんとふーど"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"心がこもってる料理なら何でも好きだ"
+,"hiragana":"こころがこもつてるりようりならなんでもすきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2033
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これを機にアークレンジャーを布教しよう"
+,"hiragana":"これをきにあーくれんじやーをふきようしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"時間がすべてを解決してくれるはずだ"
+,"hiragana":"じかんがすべてをかいけつしてくれるはずだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2034
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ。頭を使うゲームが好きだ"
+,"hiragana":"あああたまをつかうげーむがすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、あまり好きじゃない"
+,"hiragana":"いやあまりすきじやない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2035
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"エレクトリックショック、語感からしてカッコイイ"
+,"hiragana":"えれくとりつくしよつくごかんからしてかつこいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ちょっとテキトーにつけた感じが…"
+,"hiragana":"ちよつとてきとーにつけたかんじが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2036
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それでも修正しないと"
+,"hiragana":"それでもしゆうせいしないと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"放っておいた方がいいんじゃないか？"
+,"hiragana":"ほつておいたほうがいいんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2037
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、毎回考えるのは面倒だから"
+,"hiragana":"ああまいかいかんがえるのはめんどうだから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、キャラクターごとに合った名前をつけるタイプだ"
+,"hiragana":"いやきやらくたーごとにあつたなまえをつけるたいぷだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2038
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これからはこっそり隠しておいたらどうだ？"
+,"hiragana":"これからはこつそりかくしておいたらどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"数を決めて飲んだらどうだ？"
+,"hiragana":"かずをきめてのんだらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2039
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気配り上手で有能なニケ"
+,"hiragana":"きくばりじようずでゆうのうなにけ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"BOOMが大好きで愉快なニケ"
+,"hiragana":"ぶーむがだいすきでゆかいなにけ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2040
+,"name":"トロニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"危険な場所"
+,"hiragana":"きけんなばしよ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"美しい場所"
+,"hiragana":"うつくしいばしよ"
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
