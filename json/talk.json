@@ -42839,4 +42839,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":2041
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ブッフ・ブルギニョン"
+,"hiragana":"ぶっふぶるぎによん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"オムライス"
+,"hiragana":"おむらいす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2042
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ピカピカウサギさん"
+,"hiragana":"ぴかぴかうさぎさん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウサギ"
+,"hiragana":"うさぎ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2043
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"バタバタするなってことじゃないか？"
+,"hiragana":"ばたばたするなつてことじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウサギみたいに可愛いってことじゃないか？"
+,"hiragana":"うさぎみたいにかわいいつてことじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2044
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"選べないな"
+,"hiragana":"えらべないな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エード"
+,"hiragana":"えーど"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2045
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"メイド服"
+,"hiragana":"めいどふく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"バニー服"
+,"hiragana":"ばにーふく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2046
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ノワール映画"
+,"hiragana":"のわーるえいが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"青春ロマンス"
+,"hiragana":"せいしゆんろまんす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2047
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"掃除する夢"
+,"hiragana":"そうじするゆめ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私の夢"
+,"hiragana":"わたしのゆめ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2048
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"掃き掃除"
+,"hiragana":"はきそうじ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"拭き掃除"
+,"hiragana":"ふきそうじ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2049
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"セクシーさ"
+,"hiragana":"せくしーさ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"可愛さ"
+,"hiragana":"かわいさ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2050
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何もしないと思う"
+,"hiragana":"なにもしないとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"毎日メイドカフェに行くと思う"
+,"hiragana":"まいにちめいどかふえにいくとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2051
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"偶数"
+,"hiragana":"ぐうすう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"奇数"
+,"hiragana":"きすう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2052
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"緑"
+,"hiragana":"みどり"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"黒"
+,"hiragana":"くろ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2053
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"1番"
+,"hiragana":"いちばん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"両方やりたくない"
+,"hiragana":"りようほうやりたくない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2054
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"きっといつも通り仕事をしていると思う"
+,"hiragana":"きつといつもどおりしごとをしているとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"きっとソーダを恋しがってると思う"
+,"hiragana":"きつとそーだをこいしがつてるとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2055
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"顔に埃がついてる"
+,"hiragana":"かおにほこりがついてる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウサギの服を来たソーダが可愛くて"
+,"hiragana":"うさぎのふくをきたそーだがかわいくて"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2056
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大人のドリンク"
+,"hiragana":"おとなのどりんく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"甘いスイーツ"
+,"hiragana":"あまいすいーつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2057
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"塩をまく"
+,"hiragana":"しおをまく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"自分を信じるのみ"
+,"hiragana":"じぶんをしんじるのみ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2058
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ぎゅっと押してみる"
+,"hiragana":"ぎゆつとおしてみる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"優しく触ってみる"
+,"hiragana":"やさしくさわつてみる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2059
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"甘いベビーパウダー"
+,"hiragana":"あまいべびーぱうだー"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"爽やかなレモンの香り"
+,"hiragana":"さわやかなれもんのかおり"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2060
+,"name":"ソーダ：トゥインクルバニー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ソーダならすぐできそうだ"
+,"hiragana":"そーだならすぐできそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"マスタングに聞いてくれ"
+,"hiragana":"ますたんぐにきいてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
