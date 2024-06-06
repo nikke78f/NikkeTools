@@ -43259,4 +43259,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":2061
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アリスのことを考えているんじゃないか？"
+,"hiragana":"ありすのことをかんがえているんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ティータイム中じゃないか？"
+,"hiragana":"ていーたいむちゆうじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2062
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それは違うような…"
+,"hiragana":"それはちがうような"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、ちっとも痛くないはずだ"
+,"hiragana":"ああちつともいたくないはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2063
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私もアリスウサギがいるから嬉しい"
+,"hiragana":"わたしもありすうさぎがいるからうれしい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"じゃあ私は必要ないな？"
+,"hiragana":"じやあわたしはひつようないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2064
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アリスを見ているだけでも幸せになる"
+,"hiragana":"ありすをみているだけでもしあわせになる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"アリスも幸運のウサギになりたいのか？"
+,"hiragana":"ありすもこううんのうさぎになりたいのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2065
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私の方が好きだ"
+,"hiragana":"わたしのほうがすきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私もアリスと同じくらい好きだ"
+,"hiragana":"わたしもありすとおなじくらいすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2066
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"カフェのメニュー全部"
+,"hiragana":"かふえのめにゆーぜんぶ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ニンジンケーキ"
+,"hiragana":"にんじんけーき"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2067
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"まだ練習が足りないからだ"
+,"hiragana":"まだれんしゆうがたりないからだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それはアリスがニケだから…"
+,"hiragana":"それはありすがにけだから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2068
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"3枚？"
+,"hiragana":"さんまい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"2枚？"
+,"hiragana":"にまい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2069
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今はあまりニンジンを食べたくない"
+,"hiragana":"いまはあまりにんじんをたべたくない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"雲の塊味のニンジン"
+,"hiragana":"くものかたまりあじのにんじん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2070
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ウサギの幸運"
+,"hiragana":"うさぎのこううん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"掃除道具"
+,"hiragana":"そうじどうぐ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2071
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ただの変な夢だ"
+,"hiragana":"ただのへんなゆめだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"幸運が訪れる夢？"
+,"hiragana":"こううんがおとずれるゆめ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2072
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"あっちにゴミが残っているが…"
+,"hiragana":"あつちにごみがのこつているが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今度はメイドに挑戦してみないか？"
+,"hiragana":"こんどはめいどにちようせんしてみないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2073
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"暑くて汗をかいてるんだ"
+,"hiragana":"あつくてあせをかいてるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"実は水の女王様なんだ"
+,"hiragana":"じつはみずのじよおうさまなんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2074
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ウサギの雲の塊"
+,"hiragana":"うさぎのくものかたまり"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"アリス自身がプレゼントだ"
+,"hiragana":"ありすじしんがぷれぜんとだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2075
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"北部に行って一緒に暮らそうとソーダに言おうか？"
+,"hiragana":"ほくぶにいつていつしよにくらそうとそーだにいおうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今度ソーダをアリスが暮らしている場所に招待すればいい"
+,"hiragana":"こんどそーだをありすがくらしているばしよにしようたいすればいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2076
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"マシンデストロイヤーウサギになるんじゃないか？"
+,"hiragana":"ましんですとろいやーうさぎになるんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"雪ウサギの女王様になるだろう"
+,"hiragana":"ゆきうさぎのじよおうさまになるだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2077
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"相手になろう"
+,"hiragana":"あいてになろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…やめておくよ"
+,"hiragana":"やめておくよ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2078
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いや、大丈夫だ"
+,"hiragana":"いやだいじようぶだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"聴いてみるYO"
+,"hiragana":"きいてみるよ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2079
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"北部では雪が輝いてるじゃないか"
+,"hiragana":"ほくぶではゆきがかがやいてるじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"こっそり持って帰ろうか？"
+,"hiragana":"こつそりもつてかえろうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2080
+,"name":"アリス：ワンダーランドバニー"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ。お金が一番だ"
+,"hiragana":"ああおかねがいちばんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや。雪の方が輝いてる"
+,"hiragana":"いやゆきのほうがかがやいてる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
