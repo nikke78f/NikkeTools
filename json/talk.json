@@ -43679,4 +43679,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":2081
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"電源を落として、1人の時間を作ろう"
+,"hiragana":"でんげんをおとしてひとりのじかんをつくろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"世間の声に耳を傾けるのも1つの手だ"
+,"hiragana":"せけんのこえにみみをかたむけるのもひとつのてだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2082
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"精いっぱい頑張って克服する"
+,"hiragana":"せいいつぱいがんばつてこくふくする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"その中でも得意なことを探す"
+,"hiragana":"そのなかでもとくいなことをさがす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2083
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私はいいとおもいますけどっ？"
+,"hiragana":"わたしはいいとおもいますけどつ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"しゃべり方は人それぞれだと思う"
+,"hiragana":"しやべりかたはひとそれぞれだとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2084
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これからはミスしないように頑張ろう"
+,"hiragana":"これからはみすしないようにがんばろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ミスは誰でもするものだ"
+,"hiragana":"みすはだれでもするものだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2085
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"人気は重要じゃない"
+,"hiragana":"にんきはじゆうようじやない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"これからクレイとベイが立て直していけばいい"
+,"hiragana":"これからくれいとべいがたてなおしていけばいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2086
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、見せてくれ"
+,"hiragana":"ああみせてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"競技場で見たい"
+,"hiragana":"きようぎじようでみたい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2087
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、努力の証という感じがする"
+,"hiragana":"ああどりよくのあかしというかんじがする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、ベトベトするから苦手だ"
+,"hiragana":"いやべとべとするからにがてだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2088
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気持ちが落ち着くまで、放っておいた方がいい"
+,"hiragana":"きもちがおちつくまでほつておいたほうがいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"クレイが負けた人のための応援をするのはどうだ？"
+,"hiragana":"くれいがまけたひとのためのおうえんをするのはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2089
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"圧倒的な才能の前では、努力しても意味がない"
+,"hiragana":"あつとうてきなさいのうのまえではどりよくしてもいみがない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一生懸命頑張れば勝てないこともない"
+,"hiragana":"いつしようけんめいがんばればかてないこともない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2090
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いつも通り、後悔のないよう頑張ろう"
+,"hiragana":"いつもどおりこうかいのないようがんばろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"十分な準備なしに、まぐれを願うのはやめよう"
+,"hiragana":"じゆうぶんなじゆんびなしにまぐれをねがうのはやめよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2091
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私が流す歌に合わせて手を叩くんだ"
+,"hiragana":"わたしがながすうたにあわせててをたたくんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"リズムゲームをしてみないか？"
+,"hiragana":"りずむげーむをしてみないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2092
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大人しいメンバーもいてほしい"
+,"hiragana":"おとなしいめんばーもいてほしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やる気いっぱいなメンバーがいい"
+,"hiragana":"やるきいつぱいなめんばーがいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2093
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"You Can Do It!"
+,"hiragana":"ゆーきやんどうーいつと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"You Can't Do It!"
+,"hiragana":"ゆーきやんとどうーいつと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2094
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"グッズを作って売ろうか？"
+,"hiragana":"ぐつずをつくつてうろうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"手紙を送るのはどうだ？"
+,"hiragana":"てがみをおくるのはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2095
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"お年寄りの方は、積極的に反応するのが難しいかもしれない"
+,"hiragana":"おとしよりのかたはせつきよくてきにはんのうするのがむずかしいかもしれない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"観客が少なくて、そう感じたんじゃないか？"
+,"hiragana":"かんきやくがすくなくてそうかんじたんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2096
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私も誰かを応援するのが好きだ"
+,"hiragana":"わたしもだれかをおうえんするのがすきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"チアリーディングはちょっと…"
+,"hiragana":"ちありーでいんぐはちよつと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2097
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"得意だと思う"
+,"hiragana":"とくいだとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"下手だと思う"
+,"hiragana":"へただとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2098
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、いつもそうだ"
+,"hiragana":"ああいつもそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どうだろう。よく分からない"
+,"hiragana":"どうだろうよくわからない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2099
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"緊張する方"
+,"hiragana":"きんちようするほう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"緊張が和らぐ方"
+,"hiragana":"きんちようがやわらぐほう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2100
+,"name":"クレイ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"練習場所で寝るのはどうだ？"
+,"hiragana":"れんしゆうばしよでねるのはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"アラームを5分間隔でかけるんだ"
+,"hiragana":"あらーむをごふんかんかくでかけるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
