@@ -44099,4 +44099,424 @@
 ,"hit": 0
 }
 ]}
+,{"id":2101
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラとしたことすべて"
+,"hiragana":"さくらとしたことすべて"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…待ってくれ、考える時間が必要だ"
+,"hiragana":"まつてくれかんがえるじかんがひつようだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2102
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"諦めたほうが楽だ"
+,"hiragana":"あきらめたほうがらくだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"サクラが作ったエサを砂に混ぜるんだ"
+,"hiragana":"さくらがつくつたえさをすなにまぜるんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2103
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラと一緒にした砂遊び"
+,"hiragana":"さくらといつしよにしたすなあそび"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ロザンナと一緒にしたサーフィン"
+,"hiragana":"ろざんなといつしよにしたさーふいん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2104
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラの水着の方が私の好みだ"
+,"hiragana":"さくらのみずぎのほうがわたしのこのみだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"だから私も気に入ってる"
+,"hiragana":"だからわたしもきにいつてる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2105
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"脱げばいい"
+,"hiragana":"ぬげばいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"洗ってあげよう。とりあえず私のシャツを着ていてくれ"
+,"hiragana":"あらつてあげようとりあえずわたしのしやつをきていてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2106
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"口づけを交わすのはどうだ？"
+,"hiragana":"くちづけをかわすのはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"お酒は私が用意しよう"
+,"hiragana":"おさけはわたしがよういしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2107
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラに似ている"
+,"hiragana":"さくらににている"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すごくかわいい"
+,"hiragana":"すごくかわいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2108
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラと一緒に映りたい"
+,"hiragana":"さくらといつしよにうつりたい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ポーズを決める"
+,"hiragana":"ぽーずをきめる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2109
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私の口には合わなかった"
+,"hiragana":"わたしのくちにはあわなかつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すごくおいしかった"
+,"hiragana":"すごくおいしかつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2110
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気高く優雅なポーズ"
+,"hiragana":"けだかくゆうがなぽーず"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"セクシーで魅惑的なポーズ"
+,"hiragana":"せくしーでみわくてきなぽーず"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2111
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"プールに行けばいい"
+,"hiragana":"ぷーるにいけばいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"来年の夏にまた来よう"
+,"hiragana":"らいねんのなつにまたこよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2112
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラが勝つだろう"
+,"hiragana":"さくらがかつだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ロザンナが勝つかも？"
+,"hiragana":"ろざんながかつかも"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2113
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒に水を蹴る"
+,"hiragana":"いつしよにみずをける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"サクラに水をかける"
+,"hiragana":"さくらにみずをかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2114
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"実は私が幽霊だ"
+,"hiragana":"じつはわたしがゆうれいだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私がサクラを守る"
+,"hiragana":"わたしがさくらをまもる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2115
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"海の写真"
+,"hiragana":"うみのしやしん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"砂の城の写真"
+,"hiragana":"すなのしろのしやしん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2116
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラの顔"
+,"hiragana":"さくらのかお"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"清明会の屋敷"
+,"hiragana":"せいめいかいのやしき"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2117
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ダーリン？"
+,"hiragana":"だーりん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"(指揮官の名前)"
+,"hiragana":""
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2118
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"家宝にする"
+,"hiragana":"かほうにする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"毎日身に着けよう"
+,"hiragana":"まいにちみにつけよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2119
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サクラが塗ってくれ"
+,"hiragana":"さくらがぬつてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私は大丈夫だ"
+,"hiragana":"わたしはだいじようぶだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2120
+,"name":"サクラ：ブルーム・イン・サマー"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"コンコン"
+,"hiragana":"こんこん"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"……"
+,"hiragana":""
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
