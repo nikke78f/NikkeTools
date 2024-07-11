@@ -44123,7 +44123,7 @@
 ,{"id":2102
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44144,7 +44144,7 @@
 ,{"id":2103
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44165,7 +44165,7 @@
 ,{"id":2104
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44186,7 +44186,7 @@
 ,{"id":2105
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44207,7 +44207,7 @@
 ,{"id":2106
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44228,7 +44228,7 @@
 ,{"id":2107
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44249,7 +44249,7 @@
 ,{"id":2108
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44270,7 +44270,7 @@
 ,{"id":2109
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44291,7 +44291,7 @@
 ,{"id":2110
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44312,7 +44312,7 @@
 ,{"id":2111
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44333,7 +44333,7 @@
 ,{"id":2112
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44354,7 +44354,7 @@
 ,{"id":2113
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44375,7 +44375,7 @@
 ,{"id":2114
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44396,7 +44396,7 @@
 ,{"id":2115
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44417,7 +44417,7 @@
 ,{"id":2116
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44438,7 +44438,7 @@
 ,{"id":2117
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44459,7 +44459,7 @@
 ,{"id":2118
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44480,7 +44480,7 @@
 ,{"id":2119
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44501,7 +44501,7 @@
 ,{"id":2120
 ,"name":"サクラ：ブルーム・イン・サマー"
 ,"allSort":""
-,"burstclass":"Ⅱ"
+,"burstclass":"Ⅲ"
 ,"disp": 0
 ,"cases":[
 {"id":1
@@ -44514,6 +44514,426 @@
 ,{"id":2
 ,"select":"……"
 ,"hiragana":""
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2121
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一口飲む"
+,"hiragana":"ひとくちのむ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一気に飲む"
+,"hiragana":"いつきにのむ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2122
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"キュートなポーズが合っている"
+,"hiragana":"きゆーとなぽーずがあつている"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"セクシーなポーズが合っている"
+,"hiragana":"せくしーなぽーずがあつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2123
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"変顔を披露する"
+,"hiragana":"へんがおをひろうする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"なるべく笑顔を作る"
+,"hiragana":"なるべくえがおをつくる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2124
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"骨盤のバラの模様"
+,"hiragana":"こつばんのばらのもよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"腕のバラの模様"
+,"hiragana":"うでのばらのもよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2125
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"飽きるかどうか、やってみるか？"
+,"hiragana":"あきるかどうかやつてみるか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ロザンナも1日中サーフィンをしているじゃないか"
+,"hiragana":"ろざんなもいちにちじゆうさーふいんをしているじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2126
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私が手伝おうか？"
+,"hiragana":"わたしがてつだおうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"基礎からもう一度始めるのはどうだ？"
+,"hiragana":"きそからもういちどはじめるのはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2127
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"道具を使ってみたらどうだ？"
+,"hiragana":"どうぐをつかつてみたらどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"水で洗い流すのはどうだ？"
+,"hiragana":"みずであらいながすのはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2128
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"サーフィンでもしに行こうか"
+,"hiragana":"さーふいんでもしにいこうか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"砂の城でも作りに行こうか"
+,"hiragana":"すなのしろでもつくりにいこうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2129
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"生まれつきだと思う"
+,"hiragana":"うまれつきだとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"本物のイヌだからな"
+,"hiragana":"ほんもののいぬだからな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2130
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"明るい昼の海"
+,"hiragana":"あかるいひるのうみ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"日暮れ時の海"
+,"hiragana":"ひぐれどきのうみ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2131
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、気に入った"
+,"hiragana":"ああきにいつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、別に"
+,"hiragana":"いやべつに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2132
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"氷が入った冷たいドリンクを渡す"
+,"hiragana":"こおりがはいつたつめたいどりんくをわたす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"暖かいお茶を渡す"
+,"hiragana":"あたたかいおちやをわたす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2133
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"じゃあ、私と散歩でもどうだ？"
+,"hiragana":"じやあわたしとさんぽでもどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すぐに慣れるはずだ"
+,"hiragana":"すぐになれるはずだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2134
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうだな、キレイだった"
+,"hiragana":"そうだなきれいだつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ロザンナの方が…"
+,"hiragana":"ろざんなのほうが"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2135
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それは嘘だ。騙されたな"
+,"hiragana":"それはうそだだまされたな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"その波の音、いいと思わないか？"
+,"hiragana":"そのなみのおといいとおもわないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2136
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ロザンナと一緒に来れて嬉しい"
+,"hiragana":"ろざんなといつしよにこれてうれしい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"みんなと一緒に来れて嬉しい"
+,"hiragana":"みんなといつしよにこれてうれしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2137
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"背中と腰に塗る"
+,"hiragana":"せなかとこしにぬる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"太ももとふくらはぎに塗る"
+,"hiragana":"ふとももとふくらはぎにぬる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2138
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"バランスをとること"
+,"hiragana":"ばらんすをとること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"難易度の高い技"
+,"hiragana":"なんいどのたかいわざ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2139
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"待つ"
+,"hiragana":"まつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2140
+,"name":"ロザンナ：シックオーシャン"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"幸せ"
+,"hiragana":"しあわせ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"平和"
+,"hiragana":"へいわ"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
