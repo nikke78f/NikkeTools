@@ -17878,5 +17878,89 @@
       ,{ "datetime": "1900-01-06 06:20:52", "days": 6, "rank": 30.42, "score": 1793 }
       ,{ "datetime": "1900-01-06 06:20:52", "days": 6, "rank": 37.99, "score": 824 }
     ]
+  },
+  { "id": 26
+    ,"yyyymm": "2025/07"
+    ,"basedate": "2025/7/05"
+    ,"holding": true
+    ,"check": false
+    ,"name": "プロビデンス"
+    ,"name_s": "プロビデンス"
+    ,"icon": "プロビデンス"
+    ,"weakPoint": "鉄甲"
+    ,"dataList": [
+ { "datetime": "1900-01-01 05:13:36", "days": 1, "rank": 0, "score": 3712 }
+,{ "datetime": "1900-01-01 05:28:41", "days": 1, "rank": 0, "score": 9516 }
+,{ "datetime": "1900-01-01 05:35:58", "days": 1, "rank": 0, "score": 14948 }
+,{ "datetime": "1900-01-01 06:11:08", "days": 1, "rank": 0, "score": 17363 }
+,{ "datetime": "1900-01-01 06:17:07", "days": 1, "rank": 0.01, "score": 13095 }
+,{ "datetime": "1900-01-01 06:23:23", "days": 1, "rank": 0.23, "score": 2469 }
+,{ "datetime": "1900-01-01 06:37:02", "days": 1, "rank": 0.02, "score": 11582 }
+,{ "datetime": "1900-01-01 06:35:21", "days": 1, "rank": 0, "score": 15743 }
+,{ "datetime": "1900-01-01 06:43:49", "days": 1, "rank": 0.01, "score": 15102 }
+,{ "datetime": "1900-01-01 06:44:58", "days": 1, "rank": 0.01, "score": 12915 }
+,{ "datetime": "1900-01-01 07:00:42", "days": 1, "rank": 0.02, "score": 12048 }
+,{ "datetime": "1900-01-01 07:14:29", "days": 1, "rank": 0.02, "score": 12881 }
+,{ "datetime": "1900-01-01 07:32:55", "days": 1, "rank": 0.01, "score": 18679 }
+,{ "datetime": "1900-01-01 07:38:14", "days": 1, "rank": 0.03, "score": 12217 }
+,{ "datetime": "1900-01-01 08:06:17", "days": 1, "rank": 0.03, "score": 13600 }
+,{ "datetime": "1900-01-01 08:02:51", "days": 1, "rank": 0, "score": 18958 }
+,{ "datetime": "1900-01-01 08:21:15", "days": 1, "rank": 0.02, "score": 16000 }
+,{ "datetime": "1900-01-01 08:22:37", "days": 1, "rank": 0.42, "score": 3814 }
+,{ "datetime": "1900-01-01 08:33:31", "days": 1, "rank": 0.05, "score": 11985 }
+,{ "datetime": "1900-01-01 09:00:03", "days": 1, "rank": 0.37, "score": 4986 }
+,{ "datetime": "1900-01-01 09:33:43", "days": 1, "rank": 0, "score": 22071 }
+,{ "datetime": "1900-01-01 09:36:08", "days": 1, "rank": 0.22, "score": 7041 }
+,{ "datetime": "1900-01-01 09:54:48", "days": 1, "rank": 0, "score": 19416 }
+,{ "datetime": "1900-01-01 10:08:27", "days": 1, "rank": 1.36, "score": 2574 }
+,{ "datetime": "1900-01-01 10:35:23", "days": 1, "rank": 0.12, "score": 10548 }
+,{ "datetime": "1900-01-01 10:43:05", "days": 1, "rank": 0.15, "score": 9558 }
+,{ "datetime": "1900-01-01 10:49:25", "days": 1, "rank": 0.06, "score": 14315 }
+,{ "datetime": "1900-01-01 11:13:34", "days": 1, "rank": 0.03, "score": 16120 }
+,{ "datetime": "1900-01-01 11:15:42", "days": 1, "rank": 0.02, "score": 18583 }
+,{ "datetime": "1900-01-01 11:18:41", "days": 1, "rank": 0.04, "score": 16241 }
+,{ "datetime": "1900-01-01 11:17:06", "days": 1, "rank": 0.01, "score": 18998 }
+,{ "datetime": "1900-01-01 11:24:45", "days": 1, "rank": 0.03, "score": 16797 }
+,{ "datetime": "1900-01-01 11:25:10", "days": 1, "rank": 0.09, "score": 12710 }
+,{ "datetime": "1900-01-01 11:30:01", "days": 1, "rank": 0, "score": 22209 }
+,{ "datetime": "1900-01-01 11:31:50", "days": 1, "rank": 3.03, "score": 1140 }
+,{ "datetime": "1900-01-01 11:44:42", "days": 1, "rank": 1.07, "score": 4095 }
+,{ "datetime": "1900-01-01 11:44:43", "days": 1, "rank": 0.03, "score": 17281 }
+,{ "datetime": "1900-01-01 12:04:05", "days": 1, "rank": 0.02, "score": 16534 }
+,{ "datetime": "1900-01-01 12:24:54", "days": 1, "rank": 0.02, "score": 18832 }
+,{ "datetime": "1900-01-01 12:35:38", "days": 1, "rank": 0.07, "score": 13152 }
+,{ "datetime": "1900-01-01 12:46:31", "days": 1, "rank": 0.01, "score": 21219 }
+,{ "datetime": "1900-01-01 12:47:46", "days": 1, "rank": 0.01, "score": 21589 }
+,{ "datetime": "1900-01-01 13:17:06", "days": 1, "rank": 0, "score": 24788 }
+,{ "datetime": "1900-01-01 13:22:21", "days": 1, "rank": 0.28, "score": 7467 }
+,{ "datetime": "1900-01-01 13:47:50", "days": 1, "rank": 0, "score": 24112 }
+,{ "datetime": "1900-01-01 13:51:54", "days": 1, "rank": 0.85, "score": 5967 }
+,{ "datetime": "1900-01-01 14:04:39", "days": 1, "rank": 0.02, "score": 19320 }
+,{ "datetime": "1900-01-01 14:06:59", "days": 1, "rank": 0.08, "score": 16021 }
+,{ "datetime": "1900-01-01 14:15:17", "days": 1, "rank": 0.04, "score": 17700 }
+,{ "datetime": "1900-01-01 14:29:35", "days": 1, "rank": 0.01, "score": 16447 }
+,{ "datetime": "1900-01-01 14:18:16", "days": 1, "rank": 0.04, "score": 18046 }
+,{ "datetime": "1900-01-01 14:18:43", "days": 1, "rank": 0.01, "score": 22533 }
+,{ "datetime": "1900-01-01 14:20:07", "days": 1, "rank": 0.09, "score": 9730 }
+,{ "datetime": "1900-01-01 14:35:34", "days": 1, "rank": 0.09, "score": 15566 }
+,{ "datetime": "1900-01-01 14:43:08", "days": 1, "rank": 0.24, "score": 11913 }
+,{ "datetime": "1900-01-01 14:44:02", "days": 1, "rank": 0.01, "score": 21600 }
+,{ "datetime": "1900-01-01 14:46:08", "days": 1, "rank": 0.05, "score": 17390 }
+,{ "datetime": "1900-01-01 14:48:06", "days": 1, "rank": 0.12, "score": 15052 }
+,{ "datetime": "1900-01-01 14:49:37", "days": 1, "rank": 0.03, "score": 19091 }
+,{ "datetime": "1900-01-01 15:10:26", "days": 1, "rank": 0.05, "score": 17314 }
+,{ "datetime": "1900-01-01 15:23:19", "days": 1, "rank": 0.37, "score": 10052 }
+,{ "datetime": "1900-01-01 15:34:26", "days": 1, "rank": 0.99, "score": 6181 }
+,{ "datetime": "1900-01-01 15:26:16", "days": 1, "rank": 0.16, "score": 14157 }
+,{ "datetime": "1900-01-01 15:31:46", "days": 1, "rank": 0.74, "score": 7155 }
+,{ "datetime": "1900-01-01 15:32:40", "days": 1, "rank": 0.11, "score": 15751 }
+,{ "datetime": "1900-01-01 15:32:25", "days": 1, "rank": 0.07, "score": 16727 }
+,{ "datetime": "1900-01-01 15:35:23", "days": 1, "rank": 0.05, "score": 17646 }
+,{ "datetime": "1900-01-01 15:38:51", "days": 1, "rank": 0.04, "score": 18628 }
+,{ "datetime": "1900-01-01 15:43:15", "days": 1, "rank": 0.37, "score": 8959 }
+,{ "datetime": "1900-01-01 15:43:22", "days": 1, "rank": 0.05, "score": 17463 }
+,{ "datetime": "1900-01-01 15:45:45", "days": 1, "rank": 0.05, "score": 17586 }
+
+    ]
   }
 ]
