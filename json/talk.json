@@ -73919,4 +73919,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2641
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"28メガの容量さえあればどこでも楽しめる人類史上最高の…"
+,"hiragana":"にじゆうはちめがのようりようさえあればどこでもたのしめるじんるいしじようさいこうの"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"レトロゲームだ"
+,"hiragana":"れとろげーむだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2642
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"嬉しいときは共に喜び、苦しいときは励まし合える人"
+,"hiragana":"うれしいときはともによろこびくるしいときははげましあえるひと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"親しい人"
+,"hiragana":"したしいひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2643
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"背後からそっと近づきドロシーを驚かせる"
+,"hiragana":"はいごからそつとちかづきどろしーをおどろかせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"遠くから見守る"
+,"hiragana":"とおくからみまもる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2644
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ドロシーはこういう日が好きだろう？"
+,"hiragana":"どろしーはこういうひがすきだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ドロシーはこういう日は好きじゃないだろう？"
+,"hiragana":"どろしーはこういうひはすきじやないだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2645
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒に乗ろう。さあ、行こう！"
+,"hiragana":"いつしよにのろうさあいこう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"では、足だけでも水につけてみたらどうだ？"
+,"hiragana":"ではあしだけでもみずにつけてみたらどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2646
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"助けになる仲間だから"
+,"hiragana":"たすけになるなかまだから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ドロシーを困らせるために連れてきた"
+,"hiragana":"どろしーをこまらせるためにつれてきた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2647
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ドロシーのティーカップ"
+,"hiragana":"どろしーのていーかつぷ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ドロシーがお茶を飲む仕草"
+,"hiragana":"どろしーがおちやをのむしぐさ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2648
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"暑い日だが、熱いお茶を出す"
+,"hiragana":"あついひだがあついおちやをだす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"暑い日なので、冷たいお茶を出す"
+,"hiragana":"あついひなのでつめたいおちやをだす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2649
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"さりげなく同じテーブルに座る"
+,"hiragana":"さりげなくおなじてーぶるにすわる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"騒々しく同じテーブルに座る"
+,"hiragana":"そうぞうしくおなじてーぶるにすわる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2650
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…とりあえず話はしておく"
+,"hiragana":"とりあえずはなしはしておく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"賑やかでいいと思わないか？"
+,"hiragana":"にぎやかでいいとおもわないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2651
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いい夢が見られるから？"
+,"hiragana":"いいゆめがみられるから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いつも疲れているから？"
+,"hiragana":"いつもつかれているから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2652
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、存在すると思う"
+,"hiragana":"ああそんざいするとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、存在しないと思う"
+,"hiragana":"いやそんざいしないとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2653
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ドロシーが持っている日傘"
+,"hiragana":"どろしーがもつているひがさ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ドロシーの水着"
+,"hiragana":"どろしーのみずぎ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2654
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"修理を買って出る"
+,"hiragana":"しゆうりをかつてでる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"センチを呼び、助けを求める"
+,"hiragana":"せんちをよびたすけをもとめる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2655
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒に泳ぎに行こう"
+,"hiragana":"いつしよにおよぎにいこう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一緒に散歩しよう"
+,"hiragana":"いつしよにさんぽしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2656
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"悪くない変化だろう？"
+,"hiragana":"わるくないへんかだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私もまだ慣れない"
+,"hiragana":"わたしもまだなれない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2657
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"食べてみたいのか？"
+,"hiragana":"たべてみたいのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"興味があるのか？"
+,"hiragana":"きようみがあるのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2658
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"砂のせいか？"
+,"hiragana":"すなのせいか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ヒトデのせいか？"
+,"hiragana":"ひとでのせいか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2659
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大切な人と一緒に？"
+,"hiragana":"たいせつなひとといつしよに"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私と一緒に？"
+,"hiragana":"わたしといつしよに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2660
+,"name":"ドロシー：セレンディピティ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"面白いじゃないか"
+,"hiragana":"おもしろいじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一種の芸術的な活動だ"
+,"hiragana":"いつしゆのげいじゆつてきなかつどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
