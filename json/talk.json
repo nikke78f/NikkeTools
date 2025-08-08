@@ -74012,14 +74012,14 @@
 {"id":1
 ,"select":"ドロシーはこういう日が好きだろう？"
 ,"hiragana":"どろしーはこういうひがすきだろう"
-,"result":"1"
+,"result":""
 ,"trigramify": null
 ,"hit": 0
 }
 ,{"id":2
 ,"select":"ドロシーはこういう日は好きじゃないだろう？"
 ,"hiragana":"どろしーはこういうひはすきじやないだろう"
-,"result":""
+,"result":"1"
 ,"trigramify": null
 ,"hit": 0
 }
@@ -74851,7 +74851,7 @@
 ,"cases":[
 {"id":1
 ,"select":"強炭酸水を渡す"
-,"hiragana":"きようたんさんみずをわたす"
+,"hiragana":"きようたんさんすいをわたす"
 ,"result":"1"
 ,"trigramify": null
 ,"hit": 0
