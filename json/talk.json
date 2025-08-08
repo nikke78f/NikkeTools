@@ -75039,4 +75039,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2681
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"作戦が終わるたびにおいしいものを食べに行く"
+,"hiragana":"さくせんがおわるたびにおいしいものをたべにいく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"シャワーの時間に指揮官室に集まる"
+,"hiragana":"しやわーのじかんにしきかんしつにあつまる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2682
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"外に出ている。ゆっくりどうぞ"
+,"hiragana":"そとにでているゆつくりどうぞ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"宿所に戻ってからシャワーを浴びたらどうだ？"
+,"hiragana":"しゆくしよにもどつてからしやわーをあびたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2683
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"あそこのベッドに横になってくれ"
+,"hiragana":"あそこのべつどによこになつてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エマがそんなことを言うなんて意外だな"
+,"hiragana":"えまがそんなことをいうなんていがいだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2684
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それだけ君たちを信じているということだろう"
+,"hiragana":"それだけくんたちをしんじているということだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウンファは完璧主義だからな"
+,"hiragana":"うんふあはかんぺきしゆぎだからな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2685
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"新しい武器を取り入れてみるのはどうだ？"
+,"hiragana":"あたらしいぶきをとりいれてみるのはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エマはエマにしかできない役割を果たしてる"
+,"hiragana":"えまはえまにしかできないやくわりをはたしてる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2686
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どんな香りがいいかエマが選んでほしい"
+,"hiragana":"どんなかおりがいいかえまがえらんでほしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今日エマがつけている香りがいい"
+,"hiragana":"きようえまがつけているかおりがいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2687
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"リーダーの背中を見て、ついて行けばいいと思う"
+,"hiragana":"りーだーのせなかをみてついていけばいいとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"リーダーの横に立ち、共に前に進めばいいと思う"
+,"hiragana":"りーだーのよこにたちともにまえにすすめばいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2688
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"せっかくだから少しお願いしょう"
+,"hiragana":"せつかくだからすこしおねがいしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"まずは面談を終わらせよう"
+,"hiragana":"まずはめんだんをおわらせよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2689
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"その能力を上手に活用してると思う"
+,"hiragana":"そののうりよくをじようずにかつようしてるとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今も悩んでいると思う"
+,"hiragana":"いまもなやんでいるとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2690
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私の完璧な戦術で制圧した"
+,"hiragana":"わたしのかんぺきなせんじゆつでせいあつした"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"勝つまで全力投球で戦った"
+,"hiragana":"かつまでぜんりよくとうきゆうでたたかつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2691
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"エマもすごく変わった"
+,"hiragana":"えまもすごくかわつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エマは変わらないな"
+,"hiragana":"えまはかわらないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2692
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"遠慮しておく"
+,"hiragana":"えんりよしておく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"1回だけ触ってみようか"
+,"hiragana":"いつかいだけさわつてみようか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2693
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"あ…"
+,"hiragana":"あ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ちょ、ちょっと待った！"
+,"hiragana":"ちよちよつとまつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2694
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"みんな幸せそうだな"
+,"hiragana":"みんなしあわせそうだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"戦闘の後に撮ったのか？"
+,"hiragana":"せんとうのあとにとつたのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2695
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"殺したい人のリスト"
+,"hiragana":"ころしたいひとのりすと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やりたい事リスト"
+,"hiragana":"やりたいことりすと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2696
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"よく似合うと思う"
+,"hiragana":"よくにあうとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"少し小さくないか？"
+,"hiragana":"すこしちいさくないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2697
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"かわいい人形"
+,"hiragana":"かわいいにんぎよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"水色のワンピース"
+,"hiragana":"みずいろのわんぴーす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2698
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"行く"
+,"hiragana":"いく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"パジャマがない"
+,"hiragana":"ぱじやまがない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2699
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"温泉"
+,"hiragana":"おんせん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"メイドカフェ"
+,"hiragana":"めいどかふえ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2700
+,"name":"エマ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今のほうがいい"
+,"hiragana":"いまのほうがいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"昔のほうがよかった"
+,"hiragana":"むかしのほうがよかつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
