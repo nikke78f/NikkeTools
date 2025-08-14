@@ -75599,4 +75599,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2701
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"全部自分一人で背負い込もうとするところ"
+,"hiragana":"ぜんぶじぶんひとりでせおいこもうとするところ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私からは絶対に言えない"
+,"hiragana":"わたしからはぜつたいにいえない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2702
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"作戦が失敗しそうなときに恐怖を感じる"
+,"hiragana":"さくせんがしつぱいしそうなときにきようふをかんじる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仲間を失いそうになるときに恐怖を感じる"
+,"hiragana":"なかまをうしないそうになるときにきようふをかんじる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2703
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"寝るときに抱いて寝ればいい"
+,"hiragana":"ねるときにいだいてねればいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"腹が立った時にサンドバッグの代わりに使え"
+,"hiragana":"はらがたつたときにさんどばつぐのかわりにつかえ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2704
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アブソルートを意味する言葉だと思う"
+,"hiragana":"あぶそるーとをいみすることばだとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"カウンターズを意味する言葉だと思う"
+,"hiragana":"かうんたーずをいみすることばだとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2705
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"気に入らないのか？かわいいじゃないか"
+,"hiragana":"きにいらないのかかわいいじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウンファを困らせたいんじゃないか？"
+,"hiragana":"うんふあをこまらせたいんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2706
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うっかり割ってしまったと言うのは？"
+,"hiragana":"うつかりわつてしまつたというのは"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…少しだけつけてみたらどうだ？"
+,"hiragana":"すこしだけつけてみたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2707
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"常に完璧を追い求めろ"
+,"hiragana":"つねにかんぺきをおいもとめろ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"相手によってアドバイスは変わる"
+,"hiragana":"あいてによつてあどばいすはかわる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2708
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"君にもできる"
+,"hiragana":"きみにもできる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"無理に表現しようとしなくてもいい"
+,"hiragana":"むりにひようげんしようとしなくてもいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2709
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"諦めるんだ、諦めたら楽になる"
+,"hiragana":"あきらめるんだあきらめたららくになる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウンファが毎日料理を担当すればいい"
+,"hiragana":"うんふあがまいにちりようりをたんとうすればいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2710
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"横になってちょっと休むか？"
+,"hiragana":"よこになつてちよつとやすむか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エネルギードリンクでも飲むか？"
+,"hiragana":"えねるぎーどりんくでものむか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2711
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"誰にも気付かれないように隠す"
+,"hiragana":"だれにもきづかれないようにかくす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"弱点を受け入れ、直そうと努力する"
+,"hiragana":"じやくてんをうけいれなおそうとどりよくする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2712
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろんだ"
+,"hiragana":"もちろんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"変わりはないが、疲れてきた"
+,"hiragana":"かわりはないがつかれてきた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2713
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"誰かと一緒に過ごして解消する"
+,"hiragana":"だれかといつしよにすごしてかいしようする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"静かに瞑想して解消する"
+,"hiragana":"しずかにめいそうしてかいしようする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2714
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"変わってもラピはラピだ"
+,"hiragana":"かわつてもらぴはらぴだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"図々しくなって困ってる"
+,"hiragana":"ずうずうしくなつてこまつてる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2715
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"失敗の原因を分析する"
+,"hiragana":"しつぱいのげんいんをぶんせきする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"運がなかったと諦める"
+,"hiragana":"うんがなかつたとあきらめる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2716
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒に遊んでやれ"
+,"hiragana":"いつしよにあそんでやれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"上手く避けてみたらどうだ？"
+,"hiragana":"うまくさけてみたらどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2717
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そんな日が来るだろうか"
+,"hiragana":"そんなひがくるだろうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今から考える"
+,"hiragana":"いまからかんがえる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2718
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"おとなしく食べる"
+,"hiragana":"おとなしくたべる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"抵抗する（面談の一言目が遅かったなの場合）"
+,"hiragana":"ていこうする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2719
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"おとなしく食べる（面談の一言目が食べろの場合）"
+,"hiragana":"おとなしくたべる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"抵抗する"
+,"hiragana":"ていこうする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2720
+,"name":"ウンファ：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"静かに待つ"
+,"hiragana":"しずかにまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"びっくりさせる"
+,"hiragana":"びつくりさせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
