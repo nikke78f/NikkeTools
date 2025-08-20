@@ -76159,4 +76159,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2721
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"必ずしもエマのようになる必要はない。ベスティーにはベスティーにしかない魅力がある"
+,"hiragana":"かならずしもえまのようになるひつようはないべすていーにはべすていーにしかないみりよくがある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"努力すればいつかはなれるんじゃないか？"
+,"hiragana":"どりよくすればいつかはなれるんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2722
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"完璧だと思う"
+,"hiragana":"かんぺきだとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"お互いを思いやっているのが伝わってきて、いいと思う"
+,"hiragana":"おたがいをおもいやつているのがつたわつてきていいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2723
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"嫌がっているんじゃないか？諦めたらどうだ？"
+,"hiragana":"いやがつているんじやないかあきらめたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ウンファがよく行く場所で待ち伏せをするとか？"
+,"hiragana":"うんふあがよくいくばしよでまちぶせをするとか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2724
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"引き出しを漁り、余っている人形を渡す"
+,"hiragana":"ひきだしをあさりあまつているにんぎようをわたす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"持っているが、ないフリをしてからかう"
+,"hiragana":"もつているがないふりをしてからかう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2725
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ベスティーが今日何をしたのか話してくれ"
+,"hiragana":"べすていーがきようなにをしたのかはなしてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私が今日何をしたのか話そうか？"
+,"hiragana":"わたしがきようなにをしたのかはなそうか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2726
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"心がこもっていれば、何でも喜ぶと思う"
+,"hiragana":"こころがこもつていればなんでもよろこぶとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何が欲しいか直接聞いてみるのはどうだ？"
+,"hiragana":"なにがほしいかちよくせつきいてみるのはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2727
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ちょうどいいところに来た。話でもしょう"
+,"hiragana":"ちようどいいところにきたはなしでもしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうか…"
+,"hiragana":"そうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2728
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"相手を大切にしたいと思うこと"
+,"hiragana":"あいてをたいせつにしたいとおもうこと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"相手を自分のものにしたいと思うこと"
+,"hiragana":"あいてをじぶんのものにしたいとおもうこと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2729
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大胆で大人っぽいワンピースを選ぶ"
+,"hiragana":"だいたんでおとなつぽいわんぴーすをえらぶ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ひらひらのワンピースを選ぶ"
+,"hiragana":"ひらひらのわんぴーすをえらぶ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2730
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、ベスティーみたいにかわいいな"
+,"hiragana":"ああべすていーみたいにかわいいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"中を見てもいいか？"
+,"hiragana":"なかをみてもいいか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2731
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そっと近づき驚かせる"
+,"hiragana":"そつとちかづきおどろかせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"驚かせないように話しかける"
+,"hiragana":"おどろかせないようにはなしかける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2732
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大きく深呼吸する"
+,"hiragana":"おおきくしんこきゆうする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大声を出して気合いを入れる"
+,"hiragana":"おおごえをだしてきあいをいれる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2733
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…たまに？"
+,"hiragana":"たまに"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"まったくそんなことはない"
+,"hiragana":"まつたくそんなことはない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2734
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ありがとう、おいしそうだな"
+,"hiragana":"ありがとうおいしそうだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エマが作った弁当か？"
+,"hiragana":"えまがつくつたべんとうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2735
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"肩を貸す"
+,"hiragana":"かたをかす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"エネルギードリンクを渡す"
+,"hiragana":"えねるぎーどりんくをわたす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2736
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"分かった"
+,"hiragana":"わかつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"デートの申し込みか？"
+,"hiragana":"でーとのもうしこみか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2737
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"さりげなく目をそらす"
+,"hiragana":"さりげなくめをそらす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"興味深そうに見る"
+,"hiragana":"きようみぶかそうにみる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2738
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろんだ"
+,"hiragana":"もちろんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それは分からない"
+,"hiragana":"それはわからない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2739
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"カフェ"
+,"hiragana":"かふえ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"武器庫"
+,"hiragana":"ぶきこ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2740
+,"name":"ベスティー：タクティカル・アップ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"前髪を切ったのか？"
+,"hiragana":"ぜんかみをきつたのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いい匂いがする。香水をつけたのか？"
+,"hiragana":"いいにおいがするこうすいをつけたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
