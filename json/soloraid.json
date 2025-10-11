@@ -22735,9 +22735,9 @@
     ,"basedate": "2025/10/11"
     ,"holding": true
     ,"check": false
-    ,"name": "グラトニー"
-    ,"name_s": "グラトニー"
-    ,"icon": "グラトニー_電撃"
+    ,"name": "冷徹な審判者"
+    ,"name_s": "冷徹な審判者"
+    ,"icon": "冷徹な審判者"
     ,"weakPoint": "電撃"
     ,"dataList": [
  { "datetime": "1900-01-01 05:40:04", "days": 1, "rank": 0, "score": 13026 }
