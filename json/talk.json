@@ -77839,4 +77839,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2781
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"正義のために活躍しているという充実感が得られる"
+,"hiragana":"せいぎのためにかつやくしているというじゆうじつかんがえられる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…恥ずかしい"
+,"hiragana":"はずかしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2782
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ただ耐えるのみだ"
+,"hiragana":"ただたえるのみだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"訓練を行い、一瞬で眠りにつける技を身に着けた"
+,"hiragana":"くんれんをおこないいつしゆんでねむりにつけるわざをみにつけた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2783
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"見て見ぬフリをしてくれればいいのにな"
+,"hiragana":"みてみぬふりをしてくれればいいのにな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それぞれの立場で最善を尽くしているだけだ"
+,"hiragana":"それぞれのたちばでさいぜんをつくしているだけだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2784
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ちゃんと説明したら理解してくれるはずだ"
+,"hiragana":"ちやんとせつめいしたらりかいしてくれるはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"わざわざ言う必要はないと思う"
+,"hiragana":"わざわざいうひつようはないとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2785
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それらしい感じにした方がいいだろう"
+,"hiragana":"それらしいかんじにしたほうがいいだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ちゃんと使えさえすれば、形は関係ない"
+,"hiragana":"ちやんとつかえさえすればかたちはかんけいない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2786
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"正義のために動けばいい"
+,"hiragana":"せいぎのためにうごけばいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"人知れず物を盗めるように特訓するんだ"
+,"hiragana":"ひとしれずものをぬすめるようにとつくんするんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2787
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろんだ"
+,"hiragana":"もちろんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ラブチャーには通用しないんじゃないか？"
+,"hiragana":"らぶちやーにはつうようしないんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2788
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"次の怪盗の活動に向けて忍術の特訓をしよう"
+,"hiragana":"つぎのかいとうのかつどうにむけてにんじゆつのとつくんをしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一緒に買い物に行こう"
+,"hiragana":"いつしよにかいものにいこう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2789
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ロマンがなくなった気がする…"
+,"hiragana":"ろまんがなくなつたきがする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"作戦が遂行しやすくなっていいと思う"
+,"hiragana":"さくせんがすいこうしやすくなつていいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2790
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今見せてくれ"
+,"hiragana":"いまみせてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すまない。この仕事が終わったらな"
+,"hiragana":"すまないこのしことがおわつたらな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2791
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仲間と日々を過ごすこと"
+,"hiragana":"なかまとひびをすごすこと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"とりあえず怪盗の活動は違うと思う…"
+,"hiragana":"とりあえずかいとうのかつどうはちがうとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2792
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"緻密な調査をもとにルートを決める"
+,"hiragana":"ちみつなちようさをもとにるーとをきめる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"当たって砕けろの精神で決める"
+,"hiragana":"あたつてくだけろのせいしんできめる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2793
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"隙が多そうだ"
+,"hiragana":"すきがおおそうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"タクティカルな忍者みたいだ"
+,"hiragana":"たくていかるなにんじやみたいだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2794
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"忍者といえば手裏剣！"
+,"hiragana":"にんじやといえばしゆりけん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"扇子はどうだ？"
+,"hiragana":"せんすはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2795
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…面白いと思う"
+,"hiragana":"おもしろいとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…カッコいいと思う"
+,"hiragana":"かつこいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2796
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"よく似合っている"
+,"hiragana":"よくにあつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"少しやりすぎだ"
+,"hiragana":"すこしやりすぎだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2797
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"終わるまで待つ"
+,"hiragana":"おわるまでまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2798
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"口から火を吹く忍術"
+,"hiragana":"くちからひをふくにんじゆつ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"分身の術"
+,"hiragana":"ぶんしんのじゆつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2799
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"地面に穴を掘る"
+,"hiragana":"じめんにあなをほる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"天井に空間を作る"
+,"hiragana":"てんじようにくうかんをつくる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2800
+,"name":"デルタ：ニンジャシーフ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"2つ目がいいと思う"
+,"hiragana":"ふたつめがいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…なんだそれ？"
+,"hiragana":"なんだそれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
