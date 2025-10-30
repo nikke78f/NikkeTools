@@ -78399,4 +78399,1124 @@
 ,"hit": 0
 }
 ]}
+,{"id":2801
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"会ってみたら意外と普通だっただろう？"
+,"hiragana":"あつてみたらいがいとふつうだつただろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"会ってみたらやっばり印象的だっただろう？"
+,"hiragana":"あつてみたらやつばりいんしようてきだつただろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2802
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ひとつくらい苦手なものもあるはずだ"
+,"hiragana":"ひとつくらいにがてなものもあるはずだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"その気になればなんでも食べられると思う"
+,"hiragana":"そのきになればなんでもたべられるとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2803
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私の仲間が倒れることはない"
+,"hiragana":"わたしのなかまがたおれることはない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仲間の意志を受け継いで最後まで戦う"
+,"hiragana":"なかまのいしをうけついでさいごまでたたかう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2804
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"隠し倉庫でもあるんじゃないか？"
+,"hiragana":"かくしそうこでもあるんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"地上で見つけているんじゃないか？"
+,"hiragana":"ちじようでみつけているんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2805
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"こっちの方向じゃなかったと思うが…"
+,"hiragana":"こつちのほうこうじやなかつたとおもうが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、一緒に行こう"
+,"hiragana":"ああいつしよにいこう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2806
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私もだ"
+,"hiragana":"わたしもだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"安心しろ、急に消えることなどない"
+,"hiragana":"あんしんしろきゆうにきえることなどない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2807
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"秘訣はないな…体質じゃないか？"
+,"hiragana":"ひけつはないなたいしつじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"日頃からトレーニングをしている"
+,"hiragana":"ひごろからとれーにんぐをしている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2808
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仲間と一緒に過ごすことが多い"
+,"hiragana":"なかまといつしよにすごすことがおおい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何もせずゴロゴロする"
+,"hiragana":"なにもせずごろごろする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2809
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…どんな写真だったんだ？"
+,"hiragana":"どんなしやしんだつたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"その…あぶな絵はどうだった？"
+,"hiragana":"そのあぶなえはどうだつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2810
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"奇跡だと思う"
+,"hiragana":"きせきだとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"本当に変わったんだろうか？"
+,"hiragana":"ほんとうにかわつたんだろうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2811
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうなのか？知らなかった"
+,"hiragana":"そうなのかしらなかつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、たしかに上手いな"
+,"hiragana":"ああたしかにうまいな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2812
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そう思う"
+,"hiragana":"そうおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"酔っぱらいの言い訳だろう"
+,"hiragana":"よつぱらいのいいわけだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2813
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"同じ姿勢で瞑想してみる"
+,"hiragana":"おなじしせいでめいそうしてみる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2814
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"人の心から始まる"
+,"hiragana":"ひとのこころからはじまる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"偶然の出会いから始まる"
+,"hiragana":"ぐうぜんのであいからはじまる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2815
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"穏やかな音楽を聴く"
+,"hiragana":"おだやかなおんがくをきく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"思いっきり熱唱する"
+,"hiragana":"おもいつきりねつしようする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2816
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"地上を奪還することだ"
+,"hiragana":"ちじようをだつかんすることだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"普通に生きることだ"
+,"hiragana":"ふつうにいきることだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2817
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仙人そのものだった"
+,"hiragana":"せんにんそのものだつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"神秘的だった"
+,"hiragana":"しんぴてきだつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2818
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"団子の材料を聞く"
+,"hiragana":"だんごのざいりようをきく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"遠慮する"
+,"hiragana":"えんりよする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2819
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"声を出して笑う"
+,"hiragana":"こえをだしてわらう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"笑顔を浮かべる"
+,"hiragana":"えがおをうかべる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2820
+,"name":"ナユタ"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"小さい方"
+,"hiragana":"ちいさいほう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大きい方"
+,"hiragana":"おおきいほう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2821
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"チャイムが一番よく分かっているんじゃないか？"
+,"hiragana":"ちやいむがいちばんよくわかつているんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…無難なものがいいんじゃないか？"
+,"hiragana":"うーんぶなんなものがいいんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2822
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クラウンは何も食べられないってことか？"
+,"hiragana":"くらうんはなにもたべられないつてことか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"分かった、一生懸命働こう"
+,"hiragana":"わかつたいつしようけんめいはたらこう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2823
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"王国でならまともな食事ができるのか？"
+,"hiragana":"おうこくでならまともなしよくじができるのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"バーフェクトをあげようか？"
+,"hiragana":"ばーふえくとをあげようか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2824
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"チャイムに携帯を渡す"
+,"hiragana":"ちやいむにけいたいをわたす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"チャイムに操作しているところを見せる"
+,"hiragana":"ちやいむにそうさしているところをみせる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2825
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"かわいくて見てただけだ"
+,"hiragana":"かわいくてみてただけだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ヘルメットの鈴が不思議で見ていた"
+,"hiragana":"へるめつとのすずがふしぎでみていた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2826
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"え？誰でもなれるんじゃないのか？"
+,"hiragana":"えだれでもなれるんじやないのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ありがとう、光栄だ"
+,"hiragana":"ありがとうこうえいだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2827
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クラウンを完璧に補佐する能力？"
+,"hiragana":"くらうんをかんぺきにほさするのうりよく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"素早い身のこなし？"
+,"hiragana":"すばやいみのこなし"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2828
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"確かに…威厳がある"
+,"hiragana":"たしかにいげんがある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"言葉を間違えすぎじゃないか？"
+,"hiragana":"ことばをまちがえすぎじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2829
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"この短時間で全部？ありえない"
+,"hiragana":"このたんじかんでぜんぶありえない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"もう全部？早いな"
+,"hiragana":"もうぜんぶはやいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2830
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"民が安心して暮らせる心の拠り所"
+,"hiragana":"たみがあんしんしてくらせるこころのよりどころ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうだな…人々が集まる場所？"
+,"hiragana":"そうだなひとびとがあつまるばしよ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2831
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、その日を待っている"
+,"hiragana":"ああそのひをまつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今じゃダメなのか？"
+,"hiragana":"いまじやだめなのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2832
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"自分で見に来たらどうだ？"
+,"hiragana":"じぶんでみにきたらどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それなりに快適だ"
+,"hiragana":"それなりにかいてきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2833
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"チャイムを守る姿がか？"
+,"hiragana":"ちやいむをまもるすがたがか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"食べ物を欲しがる姿がか？"
+,"hiragana":"たべものをほしがるすがたがか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2834
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"こちらに気づくまで待つ"
+,"hiragana":"こちらにきづくまでまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2835
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"必ず来る、信じよう"
+,"hiragana":"かならずくるしんじよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私も不安になってきた"
+,"hiragana":"わたしもふあんになつてきた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2836
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"バーフェクトを渡す"
+,"hiragana":"ばーふえくとをわたす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"チョコバーを渡す"
+,"hiragana":"ちよこばーをわたす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2837
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"涼しくなりそうだな"
+,"hiragana":"すずしくなりそうだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"雨宿りをしよう"
+,"hiragana":"あまやどりをしよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2838
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そうだな"
+,"hiragana":"そうだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今回は無理そうだ"
+,"hiragana":"こんかいはむりそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2839
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、得意だ"
+,"hiragana":"ああとくいだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、苦手だ"
+,"hiragana":"いやにがてだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2840
+,"name":"チャイム"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クラウン"
+,"hiragana":"くらうん"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"チャイム"
+,"hiragana":"ちやいむ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
