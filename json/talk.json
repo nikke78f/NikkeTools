@@ -79519,4 +79519,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2841
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クイーンから地上を片付けろと命令されたのか？"
+,"hiragana":"くいーんからちじようをかたづけろとめいれいされたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"クイーンの役目と意図は何なんだ？"
+,"hiragana":"くいーんのやくめといとはなになんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2842
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どうしてクラゲのような機械に乗っているんだ？"
+,"hiragana":"どうしてくらげのようなきかいにのつているんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"特に聞きたいことはない"
+,"hiragana":"とくにききたいことはない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2843
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"みんなで平和に生きていくこと"
+,"hiragana":"みんなでへいわにいきていくこと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"異なる種族がバランスを保って生きていくこと"
+,"hiragana":"ことなるしゆぞくがばらんすをたもつていきていくこと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2844
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クイーンは君にとってどんな存在なんだ？"
+,"hiragana":"くいーんはきみにとつてどんなそんざいなんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どうしてクイーンに服従するんだ？"
+,"hiragana":"どうしてくいーんにふくじゆうするんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2845
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"話しかける"
+,"hiragana":"はなしかける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"咳払いをして、話しやすい雰囲気を作る"
+,"hiragana":"せきばらいをしてはなしやすいふんいきをつくる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2846
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ニヒリスターとは親しいのか？"
+,"hiragana":"にひりすたーとはしたしいのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ニヒリスターとは最近会っていないのか？"
+,"hiragana":"にひりすたーとはさいきんあつていないのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2847
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どうして私と話そうとしたんだ？"
+,"hiragana":"どうしてわたしとはなそうとしたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"こんなに静かでは、退屈じゃないか？"
+,"hiragana":"こんなにしずかではたいくつじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2848
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"味方は多ければ多いほどいいからだ"
+,"hiragana":"みかたはおおければおおいほどいいからだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"彼女たちが気に入ったからだ"
+,"hiragana":"かのじよたちがきにいつたからだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2849
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クイーンに、絶対に服従するのか？"
+,"hiragana":"くいーんにぜつたいにふくじゆうするのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どうして互いに仲が悪いんだ？"
+,"hiragana":"どうしてたがいになかがわるいんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2850
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"その気持ち、分かる気がする"
+,"hiragana":"そのきもちわかるきがする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"諦めて私たちの方に来たらどうだ？"
+,"hiragana":"あきらめてわたしたちのほうにきたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2851
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どうしてうるさいのが嫌いなんだ？"
+,"hiragana":"どうしてうるさいのがきらいなんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、そうだな"
+,"hiragana":"ああそうだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2852
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私の勝手だ、放っておいてくれ"
+,"hiragana":"わたしのかつてだほつておいてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"不可能ではないからだ"
+,"hiragana":"ふかのうではないからだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2853
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ナユタは不死身なのか？"
+,"hiragana":"なゆたはふじみなのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ナユタとどんな関係なんだ？"
+,"hiragana":"なゆたとどんなかんけいなんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2854
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いわゆるそういう関係だ"
+,"hiragana":"いわゆるそういうかんけいだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大切な仲間だ"
+,"hiragana":"たいせつななかまだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2855
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"急ごう、早く行かないと"
+,"hiragana":"いそごうはやくいかないと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"少し休もう"
+,"hiragana":"すこしやすもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2856
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大きな声で鼻歌を歌う"
+,"hiragana":"おおきなこえではなうたをうたう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ただ静かに進む"
+,"hiragana":"ただしずかにすすむ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2857
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一時的なものだろう？"
+,"hiragana":"いちじてきなものだろう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"覚えている"
+,"hiragana":"おぼえている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2858
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…何も聞こえないが"
+,"hiragana":"なにもきこえないが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何が聞こえるんだ？"
+,"hiragana":"なにがきこえるんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2859
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、怖くない"
+,"hiragana":"ああこわくない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"怖い"
+,"hiragana":"こわい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2860
+,"name":"リバーレリオ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"眠いのか？"
+,"hiragana":"ねむいのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"退屈なのか？"
+,"hiragana":"たいくつなのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
