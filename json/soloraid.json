@@ -23810,5 +23810,134 @@
 ,{ "datetime": "1900-01-06 05:09:11", "days": 6, "rank": 37.26, "score": 0 }
 
     ]
+  },
+  { "id": 31
+    ,"yyyymm": "2025/11"
+    ,"basedate": "2025/11/15"
+    ,"holding": true
+    ,"check": false
+    ,"name": "クイーン001"
+    ,"name_s": "クイーン001"
+    ,"icon": "クイーン001"
+    ,"weakPoint": "風圧"
+    ,"dataList": 
+    [
+ { "datetime": "1900-01-01 05:33:11", "days": 1, "rank": 0, "score": 6376 }
+,{ "datetime": "1900-01-01 05:39:19", "days": 1, "rank": 0, "score": 11461 }
+,{ "datetime": "1900-01-01 05:43:57", "days": 1, "rank": 0, "score": 19726 }
+,{ "datetime": "1900-01-01 05:45:37", "days": 1, "rank": 0, "score": 25445 }
+,{ "datetime": "1900-01-01 06:03:38", "days": 1, "rank": 0.09, "score": 3294 }
+,{ "datetime": "1900-01-01 06:04:30", "days": 1, "rank": 0, "score": 22277 }
+,{ "datetime": "1900-01-01 06:05:42", "days": 1, "rank": 0.01, "score": 16825 }
+,{ "datetime": "1900-01-01 06:06:19", "days": 1, "rank": 0, "score": 20560 }
+,{ "datetime": "1900-01-01 06:20:10", "days": 1, "rank": 0, "score": 20004 }
+,{ "datetime": "1900-01-01 06:21:30", "days": 1, "rank": 0.21, "score": 1683 }
+,{ "datetime": "1900-01-01 06:26:15", "days": 1, "rank": 0.01, "score": 17023 }
+,{ "datetime": "1900-01-01 06:34:11", "days": 1, "rank": 0.01, "score": 17006 }
+,{ "datetime": "1900-01-01 06:39:14", "days": 1, "rank": 0.01, "score": 16937 }
+,{ "datetime": "1900-01-01 06:50:50", "days": 1, "rank": 0.03, "score": 13423 }
+,{ "datetime": "1900-01-01 06:45:50", "days": 1, "rank": 0.02, "score": 16657 }
+,{ "datetime": "1900-01-01 07:01:46", "days": 1, "rank": 0.01, "score": 20731 }
+,{ "datetime": "1900-01-01 07:13:54", "days": 1, "rank": 0.03, "score": 16336 }
+,{ "datetime": "1900-01-01 07:23:34", "days": 1, "rank": 0.12, "score": 7399 }
+,{ "datetime": "1900-01-01 07:30:39", "days": 1, "rank": 0.07, "score": 10775 }
+,{ "datetime": "1900-01-01 07:32:29", "days": 1, "rank": 0.11, "score": 8284 }
+,{ "datetime": "1900-01-01 07:36:27", "days": 1, "rank": 0, "score": 13635 }
+,{ "datetime": "1900-01-01 07:40:09", "days": 1, "rank": 0.01, "score": 20052 }
+,{ "datetime": "1900-01-01 07:40:27", "days": 1, "rank": 0.16, "score": 6526 }
+,{ "datetime": "1900-01-01 07:50:33", "days": 1, "rank": 0.04, "score": 16436 }
+,{ "datetime": "1900-01-01 07:51:09", "days": 1, "rank": 0.02, "score": 18502 }
+,{ "datetime": "1900-01-01 08:12:31", "days": 1, "rank": 0.42, "score": 2582 }
+,{ "datetime": "1900-01-01 08:46:18", "days": 1, "rank": 0.53, "score": 3184 }
+,{ "datetime": "1900-01-01 08:46:22", "days": 1, "rank": 0.02, "score": 19078 }
+,{ "datetime": "1900-01-01 08:47:21", "days": 1, "rank": 0, "score": 27887 }
+,{ "datetime": "1900-01-01 08:58:59", "days": 1, "rank": 0.04, "score": 16820 }
+,{ "datetime": "1900-01-01 08:59:35", "days": 1, "rank": 0.03, "score": 18439 }
+,{ "datetime": "1900-01-01 09:04:27", "days": 1, "rank": 0.18, "score": 8417 }
+,{ "datetime": "1900-01-01 09:04:58", "days": 1, "rank": 0.05, "score": 17039 }
+,{ "datetime": "1900-01-01 09:10:19", "days": 1, "rank": 0.07, "score": 14837 }
+,{ "datetime": "1900-01-01 09:17:41", "days": 1, "rank": 0.08, "score": 14330 }
+,{ "datetime": "1900-01-01 09:18:13", "days": 1, "rank": 0.07, "score": 15056 }
+,{ "datetime": "1900-01-01 09:21:23", "days": 1, "rank": 0.06, "score": 16103 }
+,{ "datetime": "1900-01-01 09:27:58", "days": 1, "rank": 0.56, "score": 4029 }
+,{ "datetime": "1900-01-01 09:36:08", "days": 1, "rank": 0, "score": 23764 }
+,{ "datetime": "1900-01-01 09:38:43", "days": 1, "rank": 0.03, "score": 18432 }
+,{ "datetime": "1900-01-01 09:49:37", "days": 1, "rank": 0.2, "score": 9612 }
+,{ "datetime": "1900-01-01 09:55:16", "days": 1, "rank": 0.1, "score": 14212 }
+,{ "datetime": "1900-01-01 09:55:16", "days": 1, "rank": 0.04, "score": 18892 }
+,{ "datetime": "1900-01-01 10:00:42", "days": 1, "rank": 0.02, "score": 20676 }
+,{ "datetime": "1900-01-01 10:13:50", "days": 1, "rank": 0.04, "score": 18987 }
+,{ "datetime": "1900-01-01 10:13:28", "days": 1, "rank": 0.01, "score": 22427 }
+,{ "datetime": "1900-01-01 10:36:12", "days": 1, "rank": 0.03, "score": 19581 }
+,{ "datetime": "1900-01-01 10:40:18", "days": 1, "rank": 0.04, "score": 18961 }
+,{ "datetime": "1900-01-01 10:52:08", "days": 1, "rank": 0.01, "score": 22343 }
+,{ "datetime": "1900-01-01 10:52:13", "days": 1, "rank": 0.11, "score": 14340 }
+,{ "datetime": "1900-01-01 10:55:08", "days": 1, "rank": 0.03, "score": 17057 }
+,{ "datetime": "1900-01-01 10:56:52", "days": 1, "rank": 0.01, "score": 22888 }
+,{ "datetime": "1900-01-01 10:58:16", "days": 1, "rank": 0.01, "score": 22499 }
+,{ "datetime": "1900-01-01 11:01:59", "days": 1, "rank": 0.04, "score": 19456 }
+,{ "datetime": "1900-01-01 11:05:26", "days": 1, "rank": 1.62, "score": 1605 }
+,{ "datetime": "1900-01-01 11:14:39", "days": 1, "rank": 0.09, "score": 16628 }
+,{ "datetime": "1900-01-01 11:21:58", "days": 1, "rank": 0.28, "score": 10069 }
+,{ "datetime": "1900-01-01 11:25:57", "days": 1, "rank": 0.27, "score": 10178 }
+,{ "datetime": "1900-01-01 11:29:52", "days": 1, "rank": 0.07, "score": 17745 }
+,{ "datetime": "1900-01-01 11:31:19", "days": 1, "rank": 0, "score": 14231 }
+,{ "datetime": "1900-01-01 11:31:50", "days": 1, "rank": 0.22, "score": 11479 }
+,{ "datetime": "1900-01-01 11:43:42", "days": 1, "rank": 0.03, "score": 20626 }
+,{ "datetime": "1900-01-01 11:46:30", "days": 1, "rank": 0.84, "score": 5153 }
+,{ "datetime": "1900-01-01 11:50:50", "days": 1, "rank": 0.01, "score": 23007 }
+,{ "datetime": "1900-01-01 11:51:15", "days": 1, "rank": 0.34, "score": 9677 }
+,{ "datetime": "1900-01-01 11:53:06", "days": 1, "rank": 0.05, "score": 18826 }
+,{ "datetime": "1900-01-01 11:53:11", "days": 1, "rank": 0.01, "score": 23960 }
+,{ "datetime": "1900-01-01 11:55:24", "days": 1, "rank": 0.06, "score": 18771 }
+,{ "datetime": "1900-01-01 11:56:30", "days": 1, "rank": 0.03, "score": 20339 }
+,{ "datetime": "1900-01-01 12:11:56", "days": 1, "rank": 0.14, "score": 12823 }
+,{ "datetime": "1900-01-01 12:16:12", "days": 1, "rank": 0.01, "score": 24312 }
+,{ "datetime": "1900-01-01 12:17:01", "days": 1, "rank": 2.04, "score": 1673 }
+,{ "datetime": "1900-01-01 12:21:55", "days": 1, "rank": 0.06, "score": 19111 }
+,{ "datetime": "1900-01-01 12:27:25", "days": 1, "rank": 0.01, "score": 22732 }
+,{ "datetime": "1900-01-01 12:29:36", "days": 1, "rank": 0.08, "score": 17904 }
+,{ "datetime": "1900-01-01 12:34:30", "days": 1, "rank": 0.04, "score": 20011 }
+,{ "datetime": "1900-01-01 12:38:24", "days": 1, "rank": 0.01, "score": 22784 }
+,{ "datetime": "1900-01-01 12:48:41", "days": 1, "rank": 0.04, "score": 20156 }
+,{ "datetime": "1900-01-01 12:55:44", "days": 1, "rank": 0.04, "score": 20118 }
+,{ "datetime": "1900-01-01 13:03:49", "days": 1, "rank": 0.02, "score": 22561 }
+,{ "datetime": "1900-01-01 13:04:13", "days": 1, "rank": 0.07, "score": 18595 }
+,{ "datetime": "1900-01-01 13:06:43", "days": 1, "rank": 0.08, "score": 18230 }
+,{ "datetime": "1900-01-01 13:07:05", "days": 1, "rank": 0.19, "score": 14754 }
+,{ "datetime": "1900-01-01 13:11:19", "days": 1, "rank": 0.01, "score": 23504 }
+,{ "datetime": "1900-01-01 13:11:36", "days": 1, "rank": 0.02, "score": 21881 }
+,{ "datetime": "1900-01-01 13:11:38", "days": 1, "rank": 0.39, "score": 10474 }
+,{ "datetime": "1900-01-01 13:20:42", "days": 1, "rank": 0.11, "score": 17323 }
+,{ "datetime": "1900-01-01 13:40:14", "days": 1, "rank": 0.03, "score": 21811 }
+,{ "datetime": "1900-01-01 13:56:49", "days": 1, "rank": 0.01, "score": 23586 }
+,{ "datetime": "1900-01-01 14:01:56", "days": 1, "rank": 0.05, "score": 20316 }
+,{ "datetime": "1900-01-01 14:04:44", "days": 1, "rank": 0, "score": 26792 }
+,{ "datetime": "1900-01-01 14:06:12", "days": 1, "rank": 0.06, "score": 19314 }
+,{ "datetime": "1900-01-01 14:06:40", "days": 1, "rank": 0.22, "score": 14839 }
+,{ "datetime": "1900-01-01 14:15:38", "days": 1, "rank": 0.04, "score": 20491 }
+,{ "datetime": "1900-01-01 14:24:08", "days": 1, "rank": 0.02, "score": 19488 }
+,{ "datetime": "1900-01-01 14:24:08", "days": 1, "rank": 0.03, "score": 20831 }
+,{ "datetime": "1900-01-01 14:28:34", "days": 1, "rank": 0.12, "score": 17442 }
+,{ "datetime": "1900-01-01 14:32:18", "days": 1, "rank": 0.03, "score": 21391 }
+,{ "datetime": "1900-01-01 14:33:22", "days": 1, "rank": 0.1, "score": 18342 }
+,{ "datetime": "1900-01-01 14:35:45", "days": 1, "rank": 0.09, "score": 18685 }
+,{ "datetime": "1900-01-01 14:44:39", "days": 1, "rank": 0.8, "score": 8000 }
+,{ "datetime": "1900-01-01 14:48:51", "days": 1, "rank": 0.26, "score": 13916 }
+,{ "datetime": "1900-01-01 14:53:37", "days": 1, "rank": 1.79, "score": 3975 }
+,{ "datetime": "1900-01-01 14:50:31", "days": 1, "rank": 0.25, "score": 14698 }
+,{ "datetime": "1900-01-01 14:55:57", "days": 1, "rank": 0.07, "score": 19214 }
+,{ "datetime": "1900-01-01 15:09:48", "days": 1, "rank": 0.96, "score": 6853 }
+,{ "datetime": "1900-01-01 15:20:44", "days": 1, "rank": 0.06, "score": 20038 }
+,{ "datetime": "1900-01-01 15:20:58", "days": 1, "rank": 0.12, "score": 18154 }
+,{ "datetime": "1900-01-01 15:43:28", "days": 1, "rank": 0.46, "score": 11485 }
+,{ "datetime": "1900-01-01 15:52:34", "days": 1, "rank": 0.53, "score": 10962 }
+,{ "datetime": "1900-01-01 15:52:46", "days": 1, "rank": 0.05, "score": 20646 }
+,{ "datetime": "1900-01-01 15:53:27", "days": 1, "rank": 0.39, "score": 13032 }
+,{ "datetime": "1900-01-01 15:56:29", "days": 1, "rank": 0.09, "score": 19004 }
+,{ "datetime": "1900-01-01 16:04:21", "days": 1, "rank": 0.17, "score": 17237 }
+,{ "datetime": "1900-01-01 16:11:34", "days": 1, "rank": 0.06, "score": 20065 }
+
+    ]
   }
 ]
