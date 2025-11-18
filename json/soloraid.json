@@ -2,6 +2,7 @@
   { "id": 10
     ,"yyyymm": "2024/02"
     ,"basedate": "2024/02/11"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "クリスタル<br>チャンバー"
@@ -1017,6 +1018,7 @@
   { "id": 11
     ,"yyyymm": "2024/03"
     ,"basedate": "2024/03/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ストーム<br>ブリンガー"
@@ -1992,6 +1994,7 @@
   { "id": 12
     ,"yyyymm": "2024/04"
     ,"basedate": "2024/04/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ニヒリスター"
@@ -2610,6 +2613,7 @@
   { "id": 13
     ,"yyyymm": "2024/05"
     ,"basedate": "2024/05/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "インディビリア"
@@ -3386,6 +3390,7 @@
   { "id": 14
     ,"yyyymm": "2024/06"
     ,"basedate": "2024/06/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "グレイブディガー"
@@ -4275,6 +4280,7 @@
   { "id": 15
     ,"yyyymm": "2024/07"
     ,"basedate": "2024/07/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ゴールデン<br>クラーケン"
@@ -5179,6 +5185,7 @@
   { "id": 16
     ,"yyyymm": "2024/08"
     ,"basedate": "2024/08/--"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ミラーコンテナ"
@@ -6524,6 +6531,7 @@
   { "id": 17
     ,"yyyymm": "2024/09"
     ,"basedate": "2024/09/07"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "巨大質量体"
@@ -8037,6 +8045,7 @@
   { "id": 18
     ,"yyyymm": "2024/10"
     ,"basedate": "2024/10/05"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ランドイーター"
@@ -9386,6 +9395,7 @@
   { "id": 19
     ,"yyyymm": "2024/11"
     ,"basedate": "2024/11/12"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ベヒモス"
@@ -10424,6 +10434,7 @@
   { "id": 20
     ,"yyyymm": "2024/12"
     ,"basedate": "2024/12/11"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ホワイトアイスドラゴン"
@@ -11579,6 +11590,7 @@
   { "id": 21
     ,"yyyymm": "2025/01"
     ,"basedate": "2025/1/11"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "モダニア"
@@ -12898,6 +12910,7 @@
   { "id": 22
     ,"yyyymm": "2025/02"
     ,"basedate": "2025/2/8"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "マテリアルH"
@@ -14125,6 +14138,7 @@
   { "id": 23
     ,"yyyymm": "2025/03"
     ,"basedate": "2025/3/8"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "巨大質量体"
@@ -15209,6 +15223,7 @@
   { "id": 24
     ,"yyyymm": "2025/04"
     ,"basedate": "2025/4/5"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ブラックスネーク"
@@ -16431,6 +16446,7 @@
   { "id": 25
     ,"yyyymm": "2025/05"
     ,"basedate": "2025/5/10"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "グラトニー"
@@ -17882,6 +17898,7 @@
   { "id": 26
     ,"yyyymm": "2025/07"
     ,"basedate": "2025/7/05"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "プロビデンス"
@@ -19379,6 +19396,7 @@
   { "id": 27
     ,"yyyymm": "2025/07"
     ,"basedate": "2025/07/26"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ホログラムクラーケン"
@@ -20721,6 +20739,7 @@
   { "id": 28
     ,"yyyymm": "2025/08"
     ,"basedate": "2025/08/27"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "ジズ"
@@ -21836,6 +21855,7 @@
   { "id": 29
     ,"yyyymm": "2025/09"
     ,"basedate": "2025/09/18"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "マザーホエール"
@@ -22733,6 +22753,7 @@
   { "id": 30
     ,"yyyymm": "2025/10"
     ,"basedate": "2025/10/11"
+    ,"select": "001"
     ,"holding": false
     ,"check": false
     ,"name": "冷徹な審判者"
@@ -23814,6 +23835,7 @@
   { "id": 31
     ,"yyyymm": "2025/11"
     ,"basedate": "2025/11/15"
+    ,"select": "001"
     ,"holding": true
     ,"check": false
     ,"name": "クイーン001"
