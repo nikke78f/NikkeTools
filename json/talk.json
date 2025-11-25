@@ -80079,4 +80079,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2861
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ご乗客のみなさま、よい一日をお過ごしください"
+,"hiragana":"ごじようきやくのみなさまよいいちにちをおすごしください"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"本日もご乗客のみなさまとご一緒させていただき光栄でした"
+,"hiragana":"ほんじつもごじようきやくのみなさまとごいつしよさせていただきこうえいでした"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2862
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"不思議だな。私も夢にソリンが出てきた"
+,"hiragana":"ふしぎだなわたしもゆめにそりんがでてきた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どんな夢だったんだ？"
+,"hiragana":"どんなゆめだつたんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2863
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"香水と別のものを間違えたんじゃないか？"
+,"hiragana":"こうすいとべつのものをまちがえたんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"香水をつけすぎたんじゃないか？"
+,"hiragana":"こうすいをつけすぎたんじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2864
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それは…コーヒー味の牛乳じゃないか？"
+,"hiragana":"それはこーひーあじのぎゆうにゆうじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"おお、全部飲めるのか？"
+,"hiragana":"おおぜんぶのめるのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2865
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いるかもしれないし、いないかもしれない"
+,"hiragana":"いるかもしれないしいないかもしれない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いるに決まっている！"
+,"hiragana":"いるにきまつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2866
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"心配するな。いつでも私がついていこう"
+,"hiragana":"しんぱいするないつでもわたしがついていこう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"怖いのか？"
+,"hiragana":"こわいのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2867
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アナウンスの前に大きく深呼吸しょう"
+,"hiragana":"あなうんすのまえにおおきくしんこきゆうしよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"完璧を目指すのをやめるんだ"
+,"hiragana":"かんぺきをめざすのをやめるんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2868
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大人らしく、落ち着いて対応したはずだ"
+,"hiragana":"おとならしくおちついてたいおうしたはずだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"パニックになって泣いたはずだ"
+,"hiragana":"ぱにつくになつてないたはずだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2869
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"え？背は伸びていない気がするが…"
+,"hiragana":"えせはのびていないきがするが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、とても成長したな"
+,"hiragana":"ああとてもせいちようしたな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2870
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ソリンとAZXで地上を旅すること"
+,"hiragana":"そりんとえーぜつとえつくすでちじようをたびすること"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"地上を奪還すること"
+,"hiragana":"ちじようをだつかんすること"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2871
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そういう時は直接聞くといい"
+,"hiragana":"そういうときはちよくせつきくといい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"表情から読み取るんだ"
+,"hiragana":"ひようじようからよみとるんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2872
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"コーヒーを飲んでみよう"
+,"hiragana":"こーひーをのんでみよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"軽くストレッチしてみよう"
+,"hiragana":"かるくすとれつちしてみよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2873
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それなら一緒に行こうか？"
+,"hiragana":"それならいつしよにいこうか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"頑張れ！"
+,"hiragana":"がんばれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2874
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ひざまくらをしてあげよう"
+,"hiragana":"ひざまくらをしてあげよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"肩を貸してあげよう"
+,"hiragana":"かたをかしてあげよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2875
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"とてもよく似合っている"
+,"hiragana":"とてもよくにあつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何かが足りないな"
+,"hiragana":"なにかがたりないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2876
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うーん…さあ？"
+,"hiragana":"うーんさあ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今でも十分カッコイイ"
+,"hiragana":"いまでもじゆうぶんかつこいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2877
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、大人っぽいな"
+,"hiragana":"ああおとなつぽいな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"むしろかわいい"
+,"hiragana":"むしろかわいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2878
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、そうだな"
+,"hiragana":"ああそうだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…変わらないと思う"
+,"hiragana":"かわらないとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2879
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"大丈夫だ"
+,"hiragana":"だいじようぶだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"大丈夫じゃない"
+,"hiragana":"だいじようぶじやない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2880
+,"name":"ソリン：フロストチケット"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"普通に挨拶をする"
+,"hiragana":"ふつうにあいさつをする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"驚かせる"
+,"hiragana":"おどろかせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
