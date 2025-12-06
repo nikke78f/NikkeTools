@@ -80639,4 +80639,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2881
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルがいつも持ち歩いているキャンディみたいだな"
+,"hiragana":"でいーぜるがいつももちあるいているきやんでいみたいだな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すごく柔らかそうだ"
+,"hiragana":"すごくやわらかそうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2882
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"休息が必要だと正直に言おう"
+,"hiragana":"きゆうそくがひつようだとしようじきにいおう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"コーヒーがおいしいカフェを見つけたと言おう"
+,"hiragana":"こーひーがおいしいかふえをみつけたといおう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2883
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"イチゴ味だけでいいと思う"
+,"hiragana":"いちごあじだけでいいとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"10種類くらい用意しておいたらどうだ？"
+,"hiragana":"じゆつしゆるいくらいよういしておいたらどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2884
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルに話しかけて歌をやめさせる"
+,"hiragana":"でいーぜるにはなしかけてうたをやめさせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"一緒に歌う"
+,"hiragana":"いつしよにうたう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2885
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルにイチゴキャンディを渡す"
+,"hiragana":"でいーぜるにいちごきやんでいをわたす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ディーゼルにブドウキャンディを渡す"
+,"hiragana":"でいーぜるにぶどうきやんでいをわたす"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2886
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"だからずっとその服を着ているのか？"
+,"hiragana":"だからずつとそのふくをきているのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私も心がこもったプレゼントがほしい"
+,"hiragana":"わたしもこころがこもつたぷれぜんとがほしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2887
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ。落ち着いていて、心地のいい声だ"
+,"hiragana":"ああおちついていてここちのいいこえだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ…普段の声は素敵だ"
+,"hiragana":"ああふだんのこえはすてきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2888
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルに正しい情報を教える"
+,"hiragana":"でいーぜるにただしいじようほうをおしえる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"卵を全部食べるつもりなのか聞く"
+,"hiragana":"たまごをぜんぶたべるつもりなのかきく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2889
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"え？背は伸びていない気がするが…"
+,"hiragana":"えせはのびていないきがするが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、とても成長したな"
+,"hiragana":"ああとてもせいちようしたな"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2890
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"あまり似合っていない気がする"
+,"hiragana":"あまりにあつていないきがする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"とてもよく似合っている"
+,"hiragana":"とてもよくにあつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2891
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"どんな夢だったのか聞く"
+,"hiragana":"どんなゆめだつたのかきく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"どんな夢だったのか聞かない"
+,"hiragana":"どんなゆめだつたのかきかない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2892
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"狂ったように踊りまくる"
+,"hiragana":"くるつたようにおどりまくる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"部屋で思いっきり熱唱する"
+,"hiragana":"へやでおもいつきりねつしようする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2893
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルは本当に優しいな"
+,"hiragana":"でいーぜるはほんとうにやさしいな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"必ず買いに行く"
+,"hiragana":"かならずかいにいく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2894
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"うーん…その時々で違う"
+,"hiragana":"うーんそのときどきでちがう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、幸せを感じる"
+,"hiragana":"ああしあわせをかんじる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2895
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ディーゼルと列車の旅"
+,"hiragana":"でいーぜるとれつしやのたび"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"1人で列車の旅"
+,"hiragana":"ひとりでれつしやのたび"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2896
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…まるでイチゴ畑だな"
+,"hiragana":"まるでいちごばたけだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いただきます"
+,"hiragana":"いただきます"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2897
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"もちろん覚えている"
+,"hiragana":"もちろんおぼえている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"それは…何だ？"
+,"hiragana":"それはなにだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2898
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"普通に挨拶をする"
+,"hiragana":"ふつうにあいさつをする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"驚かせる"
+,"hiragana":"おどろかせる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2899
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、大丈夫だ"
+,"hiragana":"ああだいじようぶだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今は忙しい"
+,"hiragana":"いまはいそがしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2900
+,"name":"ディーゼル：ウィンタースイーツ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私もだ"
+,"hiragana":"わたしもだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうなのか？"
+,"hiragana":"そうなのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
