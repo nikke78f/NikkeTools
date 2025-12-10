@@ -81199,4 +81199,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2901
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"48時間は長すぎないか？"
+,"hiragana":"よんじゆうはちじかんはながすぎないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ブリッドはたとえ時間に余裕ができても自分から仕事を見つけそうだが"
+,"hiragana":"ぶりつどはたとえじかんによゆうができてもじぶんからしごとをみつけそうだが"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2902
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ブリッドのことを考えて作ってくれたのだろう"
+,"hiragana":"ぶりつどのことをかんがえてつくつてくれたのだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いい生地で作ってくれたのでは？"
+,"hiragana":"いいきじでつくつてくれたのでは"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2903
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"少し…？ブリッドが無理をしている気がする"
+,"hiragana":"すこしぶりつどがむりをしているきがする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いや、むしろ几帳面で心強い"
+,"hiragana":"いやむしろきちようめんでこころづよい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2904
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それは気になるな。今度見かけたら教えてくれ"
+,"hiragana":"それはきになるなこんどみかけたらおしえてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仕事中によそ見をしているのか？"
+,"hiragana":"しごとちゆうによそみをしているのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2905
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"仲間に感謝された時"
+,"hiragana":"なかまにかんしやされたとき"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何かをやり遂げたという実感が湧いた時"
+,"hiragana":"なにかをやりとげたというじつかんがわいたとき"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2906
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"本物のコーヒーの方がいいんじゃないか？"
+,"hiragana":"ほんもののこーひーのほうがいいんじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"かわいいな。センスがいい"
+,"hiragana":"かわいいなせんすがいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2907
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そういう時は、私に会いに来てくれ"
+,"hiragana":"そういうときはわたしにあいにきてくれ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仕事に集中できていないのではないか？"
+,"hiragana":"しごとにしゆうちゆうできていないのではないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2908
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"だからといって、油断してはいけない"
+,"hiragana":"だからといつてゆだんしてはいけない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、一生の思い出になるだろう"
+,"hiragana":"ああいつしようのおもいでになるだろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2909
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"次の仕事について事前に計画を立てる"
+,"hiragana":"つぎのしごとについてじぜんにけいかくをたてる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仲間と一緒に過ごすことが多い"
+,"hiragana":"なかまといつしよにすごすことがおおい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2910
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、自分の家のように落ち着く"
+,"hiragana":"ああじぶんのいえのようにおちつく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん、よく分からない"
+,"hiragana":"うーんよくわからない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2911
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒にコーヒーを飲んで休もう"
+,"hiragana":"いつしよにこーひーをのんでやすもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"じっと座って休もう"
+,"hiragana":"じつとすわつてやすもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2912
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、香ばしくておいしい"
+,"hiragana":"ああこうばしくておいしい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"うーん…今日のは苦すぎるな"
+,"hiragana":"うーんきようのはにがすぎるな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2913
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"え？特に変わらない気がするが…"
+,"hiragana":"えとくにかわらないきがするが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私もそう感じていた"
+,"hiragana":"わたしもそうかんじていた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2914
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今一緒に行かないか？"
+,"hiragana":"いまいつしよにいかないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仕事が忙しいなら…仕方ないな"
+,"hiragana":"しごとがいそがしいならしかたないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2915
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"誰でもミスはするものだ"
+,"hiragana":"だれでもみすはするものだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"そうだな。何かあったのか？"
+,"hiragana":"そうだななにかあつたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2916
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…働きたくないな"
+,"hiragana":"はたらきたくないな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"さっさと終わらせよう！"
+,"hiragana":"さつさとおわらせよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2917
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ブリッドを起こす"
+,"hiragana":"ぶりつどをおこす"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ブリッドを起こさない"
+,"hiragana":"ぶりつどをおこさない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2918
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"遅刻したことを謝る"
+,"hiragana":"ちこくしたことをあやまる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"隣で静かに待つ"
+,"hiragana":"となりでしずかにまつ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2919
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"よく似合っている"
+,"hiragana":"よくにあつている"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"かわいい服だな"
+,"hiragana":"かわいいふくだな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2920
+,"name":"ブリッド：サイレントトラック"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"食べる"
+,"hiragana":"たべる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"食べない"
+,"hiragana":"たべない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
