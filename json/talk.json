@@ -81759,4 +81759,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2921
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"過去を思い出した今、時を戻したくなったのか？"
+,"hiragana":"かこをおもいだしたいまときをもどしたくなつたのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"過去を思い出した今も君の考えは変わっていないと思う"
+,"hiragana":"かこをおもいだしたいまもきみのかんがえはかわつていないとおもう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2922
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"クイーンを倒すための自分なりの作戦があるのかもしれない"
+,"hiragana":"くいーんをたおすためのじぶんなりのさくせんがあるのかもしれない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"いつかまた合流することになるさ"
+,"hiragana":"いつかまたごうりゆうすることになるさ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2923
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私も最後まで共に戦おう"
+,"hiragana":"わたしもさいごまでともにたたかおう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"リリーバイスの姿をしていると聞いたが大丈夫か？"
+,"hiragana":"りりーばいすのすがたをしているときいたがだいじようぶか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2924
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"不満を言われたからじゃないか？"
+,"hiragana":"ふまんをいわれたからじやないか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"軽量化の技術をないがしろにされたからじゃないか？"
+,"hiragana":"けいりようかのぎじゆつをないがしろにされたからじやないか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2925
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"頼もしく援護してくれる戦力が必要だからか？"
+,"hiragana":"たのもしくえんごしてくれるせんりよくがひつようだからか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"彼女が恋しいのか？"
+,"hiragana":"かのじよがこいしいのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2926
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今はスノーホワイトの方が強いと思う"
+,"hiragana":"いまはすのーほわいとのほうがつよいとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"肩を並べられるように、もっと強くなろう"
+,"hiragana":"かたをならべられるようにもつとつよくなろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2927
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"…みんなに会いたいな"
+,"hiragana":"みんなにあいたいな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"悲しいが…インヘルトの分まで頑張ろう"
+,"hiragana":"かなしいがいんへるとのぶんまでがんばろう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2928
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そのたびに己の力で打ち勝ってきた"
+,"hiragana":"そのたびにおのれのちからでうちかつてきた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仲間たちがいたから乗り越えられた"
+,"hiragana":"なかまたちがいたからのりこえられた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2929
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"あの2人…生きられるだろうか？"
+,"hiragana":"あのふたりいきられるだろうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、あの2人ならきっと大丈夫だ"
+,"hiragana":"あああのふたりならきつとだいじようぶだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2930
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"重いと正直に言う"
+,"hiragana":"おもいとしようじきにいう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"見栄を張って重くないフリをする"
+,"hiragana":"みえをはつておもくないふりをする"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2931
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"そういう君は何がしたいんだ？"
+,"hiragana":"そういうきみはなにがしたいんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"君たち3人と地上を旅をしたい"
+,"hiragana":"きみたちさんにんとちじようをたびをしたい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2932
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"食べ物がたくさんあったからか？"
+,"hiragana":"たべものがたくさんあつたからか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"暮らしやすいからか？"
+,"hiragana":"くらしやすいからか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2933
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"一緒に一杯やりたくなったのか？"
+,"hiragana":"いつしよにいつぱいやりたくなつたのか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"即戦力が必要だからか？"
+,"hiragana":"そくせんりよくがひつようだからか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2934
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、必ず成し遂げてみせる"
+,"hiragana":"ああかならずなしとげてみせる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"少し…自信がなくなった"
+,"hiragana":"すこしじしんがなくなつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2935
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、準備中だ"
+,"hiragana":"ああじゆんびちゆうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"これだけやれば十分だと思う"
+,"hiragana":"これだけやればじゆうぶんだとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2936
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"パンを分けてほしいと言う"
+,"hiragana":"ぱんをわけてほしいという"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"自分のパンを分ける"
+,"hiragana":"じぶんのぱんをわける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2937
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"とてつもなく強そうだ"
+,"hiragana":"とてつもなくつよそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"以前にも増して美しい"
+,"hiragana":"いぜんにもましてうつくしい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2938
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"普通に話しかける"
+,"hiragana":"ふつうにはなしかける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"驚かせる"
+,"hiragana":"おどろかせる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2939
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"受け取る"
+,"hiragana":"うけとる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"断る"
+,"hiragana":"ことわる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2940
+,"name":"スノーホワイト：ヘビーアームズ"
+,"allSort":""
+,"burstclass":"Ⅲ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"黒"
+,"hiragana":"くろ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"白"
+,"hiragana":"しろ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
