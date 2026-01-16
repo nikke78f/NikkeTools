@@ -82319,4 +82319,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2941
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ああ、一緒に食べようと思ったんだ"
+,"hiragana":"ああいつしよにたべようとおもつたんだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"すまない、私が食べようと思っていたんだ"
+,"hiragana":"すまないわたしがたべようとおもつていたんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2942
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"いくらニケでもシャワーは浴びるべきだ"
+,"hiragana":"いくらにけでもしやわーはあびるべきだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ああ、私も休みの日は浴びない時もある"
+,"hiragana":"ああわたしもやすみのひはあびないときもある"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2943
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"おいで、マイハニー"
+,"hiragana":"おいでまいはにー"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"あっちに行け。ネクラが移りそうだ"
+,"hiragana":"あつちにいけねくらがうつりそうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2944
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"それでも、仲間だから耐えよう…"
+,"hiragana":"それでもなかまだからたえよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ファントムを尊重してあげよう"
+,"hiragana":"ふあんとむをそんちようしてあげよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2945
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"さっきシャワーを浴びたからだ"
+,"hiragana":"さつきしやわーをあびたからだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"別の来客があったからだ"
+,"hiragana":"べつのらいきやくがあつたからだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2946
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"これくらいはなんてことない"
+,"hiragana":"これくらいはなんてことない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ちょっと度が過ぎていると思う"
+,"hiragana":"ちよつとたびがすぎているとおもう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2947
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"少し可哀想に見えたんだ"
+,"hiragana":"すこしかわいそうにみえたんだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"レーベルも大切な仲間だから"
+,"hiragana":"れーべるもたいせつななかまだから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2948
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"勝手に触られたら困るのだが…"
+,"hiragana":"かつてにさわられたらこまるのだが"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"掃除してくれてありがとう"
+,"hiragana":"そうじしてくれてありがとう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2949
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アーク怪盗クロニクル"
+,"hiragana":"あーくかいとうくろにくる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"熱くて盲目的なもの5"
+,"hiragana":"あつくてもうもくてきなものご"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2950
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"意外とかわいいと思った"
+,"hiragana":"いがいとかわいいとおもつた"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ダークな魅力があった"
+,"hiragana":"だーくなみりよくがあつた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2951
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"アルカナに聞いてみよう"
+,"hiragana":"あるかなにきいてみよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"私と一緒に撮ってみよう"
+,"hiragana":"わたしといつしよにとつてみよう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2952
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"妄想を減らしてみよう"
+,"hiragana":"もうそうをへらしてみよう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"今のままでいい"
+,"hiragana":"いまのままでいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2953
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"寝たふりを続ける"
+,"hiragana":"ねたふりをつづける"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何をしているのか尋ねる"
+,"hiragana":"なにをしているのかたずねる"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2954
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"明るくてかわいい人"
+,"hiragana":"あかるくてかわいいひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"冷静で知的な人"
+,"hiragana":"れいせいでちてきなひと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2955
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"私がいる、大丈夫だ"
+,"hiragana":"わたしがいるだいじようぶだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"誰か紹介しようか？"
+,"hiragana":"だれかしようかいしようか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2956
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"誰も来ていない"
+,"hiragana":"だれもきていない"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ノーコメントだ"
+,"hiragana":"のーこめんとだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2957
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"手で取る"
+,"hiragana":"てでとる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何もしない"
+,"hiragana":"なにもしない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2958
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"晴れの日"
+,"hiragana":"はれのひ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"曇りの日"
+,"hiragana":"くもりのひ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2959
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"信じない"
+,"hiragana":"しんじない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"信じる"
+,"hiragana":"しんじる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2960
+,"name":"レーベル"
+,"allSort":""
+,"burstclass":"Ⅰ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"何をだ？"
+,"hiragana":"なにをだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"見た"
+,"hiragana":"みた"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
