@@ -82879,4 +82879,564 @@
 ,"hit": 0
 }
 ]}
+,{"id":2961
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ベルベットはもう追うべき対象じゃなくなったからだ"
+,"hiragana":"べるべつとはもうおうべきたいしようじやなくなつたからだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"ベルベットはもうメイド·フォー·ユーの仲間だからだ"
+,"hiragana":"べるべつとはもうめいどふおーゆーのなかまだからだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2962
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"今回はどうする気だ？"
+,"hiragana":"こんかいはどうするきだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"まさかこの間のようなことをするつもりじゃないよな？"
+,"hiragana":"まさかこのあいだのようなことをするつもりじやないよな"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2963
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"やらなければならない仕事だからやるしかない"
+,"hiragana":"やらなければならないしごとだからやるしかない"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やっているうちに楽しくなってくる"
+,"hiragana":"やつているうちにたのしくなつてくる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2964
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ベルベットが食べさせてくれるから"
+,"hiragana":"べるべつとがたべさせてくれるから"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"食べるまで、どいてくれないだろうから"
+,"hiragana":"たべるまでどいてくれないだろうから"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2965
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"疲れていそうなので、そっとしておく"
+,"hiragana":"つかれていそうなのでそつとしておく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"イタズラをする"
+,"hiragana":"いたずらをする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2966
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"騙されるくらいなら騙す方がいい"
+,"hiragana":"だまされるくらいならだますほうがいい"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"騙すくらいなら騙される方がいい"
+,"hiragana":"だますくらいならだまされるほうがいい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2967
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"雑務をしてくれる人"
+,"hiragana":"ざつむをしてくれるひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"心に安らぎをもたらしてくれる人"
+,"hiragana":"こころにやすらぎをもたらしてくれるひと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2968
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"デートしようということか？"
+,"hiragana":"でーとしようということか"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"何か悩みでもあるのか？"
+,"hiragana":"なにかなやみでもあるのか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2969
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"正義の怪盗"
+,"hiragana":"せいぎのかいとう"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"孤独なダークヒーローの怪盗"
+,"hiragana":"こどくなだーくひーろーのかいとう"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2970
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"バニーガールのベルベット"
+,"hiragana":"ばにーがーるのべるべつと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"メイドのベルベット"
+,"hiragana":"めいどのべるべつと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2971
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"常にお互いを思い合う存在"
+,"hiragana":"つねにおたがいをおもいあうそんざい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"同じ仕事をする人"
+,"hiragana":"おなじしごとをするひと"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2972
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"メイドに癒されに行く"
+,"hiragana":"めいどにいやされにいく"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"かわいいメイドを見に行く"
+,"hiragana":"かわいいめいどをみにいく"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2973
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"お金をもらえるかどうか"
+,"hiragana":"おかねをもらえるかどうか"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"仕事に対する姿勢"
+,"hiragana":"しごとにたいするしせい"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2974
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"潜入の訓練はどうだ？"
+,"hiragana":"せんにゆうのくんれんはどうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"警護の訓練はどうだ？"
+,"hiragana":"けいごのくんれんはどうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2975
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"掃除が得意そうだ"
+,"hiragana":"そうじがとくいそうだ"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"料理が得意そうだ"
+,"hiragana":"りようりがとくいそうだ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2976
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"セクシーなメイド"
+,"hiragana":"せくしーなめいど"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"清楚なメイド"
+,"hiragana":"せいそなめいど"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2977
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"頬に押してくれ"
+,"hiragana":"ほおにおしてくれ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"遠慮する"
+,"hiragana":"えんりよする"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2978
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"ココア"
+,"hiragana":"ここあ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"…ベルベット"
+,"hiragana":"べるべつと"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2979
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"じっとしている"
+,"hiragana":"じつとしている"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"やめろと言う"
+,"hiragana":"やめろという"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
+,{"id":2980
+,"name":"ベルベット"
+,"allSort":""
+,"burstclass":"Ⅱ"
+,"disp": 0
+,"cases":[
+{"id":1
+,"select":"朝"
+,"hiragana":"あさ"
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+,{"id":2
+,"select":"夜"
+,"hiragana":"よる"
+,"result":"1"
+,"trigramify": null
+,"hit": 0
+}
+,{"id":3
+,"select":""
+,"hiragana":""
+,"result":""
+,"trigramify": null
+,"hit": 0
+}
+]}
 ]
