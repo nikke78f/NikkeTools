@@ -33634,7 +33634,7 @@
     ,"weakPoint": "風圧"
     ,"dataList": 
 [
- { "datetime": "1900-01-01 12:00:00", "days": 1, "rank": 0, "score": 5619 }
+ { "datetime": "1900-01-01 12:00:00", "days": 1, "rank": 0, "score": 0 }
     ]
   }
 ]
